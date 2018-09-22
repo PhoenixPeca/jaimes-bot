@@ -1,7 +1,9 @@
-<Files ~ "^.*">
-  Deny from all
-</Files>
+Options -Indexes
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule "^(.+)$" "index.php"
+</IfModule>
 
-<Files ~ "^webhook\.php">
-  Allow from all
-</Files>
+<FilesMatch "\.(json)$">
+    Deny from all
+</FilesMatch>
