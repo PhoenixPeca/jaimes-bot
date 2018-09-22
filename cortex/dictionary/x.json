@@ -1,0 +1,1283 @@
+{
+    "xenophobic": {
+        "word": "xenophobic",
+        "meanings": [
+            {
+                "def": "suffering from xenophobia, or the fear of outsiders",
+                "example": "Those remarks make it pretty clear how xenophobic you are.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "xanthous": {
+        "word": "xanthous",
+        "meanings": [
+            {
+                "def": "of the color intermediate between green and orange in the color spectrum",
+                "example": "The new rug you bought is fairly xanthous, don't you think?",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "yellow"
+                ]
+            }
+        ]
+    },
+    "xxvii": {
+        "word": "xxvii",
+        "meanings": [
+            {
+                "def": "being seven more than twenty",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-seven"
+                ]
+            }
+        ]
+    },
+    "xxviii": {
+        "word": "xxviii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 28",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-eight"
+                ]
+            }
+        ]
+    },
+    "x": {
+        "word": "x",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 10",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "ten"
+                ]
+            },
+            {
+                "def": "the 24th letter of the Roman alphabet",
+                "example": "The farmer signed with an x.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "ex"
+                ]
+            }
+        ]
+    },
+    "xxix": {
+        "word": "xxix",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 29",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-nine"
+                ]
+            }
+        ]
+    },
+    "xi": {
+        "word": "xi",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 11",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "eleven"
+                ]
+            },
+            {
+                "def": "the 14th letter of the Greek alphabet",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xxx": {
+        "word": "xxx",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 30",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty"
+                ]
+            }
+        ]
+    },
+    "xxxi": {
+        "word": "xxxi",
+        "meanings": [
+            {
+                "def": "thirty-one in Roman numerals",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty-one"
+                ]
+            }
+        ]
+    },
+    "xii": {
+        "word": "xii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 12",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twelve"
+                ]
+            }
+        ]
+    },
+    "xxxii": {
+        "word": "xxxii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 32",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty-two"
+                ]
+            }
+        ]
+    },
+    "xxxiii": {
+        "word": "xxxiii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 33",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty-three"
+                ]
+            }
+        ]
+    },
+    "xiii": {
+        "word": "xiii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 13",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirteen"
+                ]
+            }
+        ]
+    },
+    "xxxiv": {
+        "word": "xxxiv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 34",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty-four"
+                ]
+            }
+        ]
+    },
+    "xiv": {
+        "word": "xiv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 14",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "fourteen"
+                ]
+            }
+        ]
+    },
+    "xxxv": {
+        "word": "xxxv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 35",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty-five"
+                ]
+            }
+        ]
+    },
+    "xxxvi": {
+        "word": "xxxvi",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 36",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty-six"
+                ]
+            }
+        ]
+    },
+    "xv": {
+        "word": "xv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 15",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "fifteen"
+                ]
+            }
+        ]
+    },
+    "xxxvii": {
+        "word": "xxxvii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 37",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "thirty-seven"
+                ]
+            }
+        ]
+    },
+    "xvi": {
+        "word": "xvi",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 16",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "sixteen"
+                ]
+            }
+        ]
+    },
+    "xxxviii": {
+        "word": "xxxviii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 38",
+                "speech_part": "adjective",
+                "synonyms": []
+            }
+        ]
+    },
+    "xvii": {
+        "word": "xvii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 17",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "seventeen"
+                ]
+            }
+        ]
+    },
+    "xl": {
+        "word": "xl",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 40",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty"
+                ]
+            }
+        ]
+    },
+    "xviii": {
+        "word": "xviii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 18",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "eighteen"
+                ]
+            }
+        ]
+    },
+    "xix": {
+        "word": "xix",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 19",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "nineteen"
+                ]
+            }
+        ]
+    },
+    "xlii": {
+        "word": "xlii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 42",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty-two"
+                ]
+            }
+        ]
+    },
+    "xx": {
+        "word": "xx",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 20",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty"
+                ]
+            }
+        ]
+    },
+    "xliii": {
+        "word": "xliii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 43",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty-three"
+                ]
+            }
+        ]
+    },
+    "xliv": {
+        "word": "xliv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 44",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty-four"
+                ]
+            }
+        ]
+    },
+    "xxi": {
+        "word": "xxi",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 21",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-one"
+                ]
+            }
+        ]
+    },
+    "xlv": {
+        "word": "xlv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 45",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty-five"
+                ]
+            }
+        ]
+    },
+    "xxii": {
+        "word": "xxii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 22",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-two"
+                ]
+            }
+        ]
+    },
+    "xlvi": {
+        "word": "xlvi",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 46",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty-six"
+                ]
+            }
+        ]
+    },
+    "xlvii": {
+        "word": "xlvii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 47",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty-seven"
+                ]
+            }
+        ]
+    },
+    "xxiii": {
+        "word": "xxiii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 23",
+                "example": "",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-three"
+                ]
+            }
+        ]
+    },
+    "xlviii": {
+        "word": "xlviii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 48",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "forty-eight"
+                ]
+            }
+        ]
+    },
+    "xxiv": {
+        "word": "xxiv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 24",
+                "example": "",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-four"
+                ]
+            }
+        ]
+    },
+    "xxv": {
+        "word": "xxv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 25",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-five"
+                ]
+            }
+        ]
+    },
+    "xxvi": {
+        "word": "xxvi",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 26",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "twenty-six"
+                ]
+            }
+        ]
+    },
+    "xc": {
+        "word": "xc",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 90",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "ninety"
+                ]
+            }
+        ]
+    },
+    "xci": {
+        "word": "xci",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 91",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "ninety-one"
+                ]
+            }
+        ]
+    },
+    "xcl": {
+        "word": "xcl",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 190",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "one hundred ninety"
+                ]
+            }
+        ]
+    },
+    "xciii": {
+        "word": "xciii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 93",
+                "speech_part": "adjective",
+                "synonyms": [
+                    null
+                ]
+            }
+        ]
+    },
+    "xciv": {
+        "word": "xciv",
+        "meanings": [
+            {
+                "def": "nintey-four in Roman numerals",
+                "example": "",
+                "speech_part": "adjective",
+                "synonyms": []
+            }
+        ]
+    },
+    "xcv": {
+        "word": "xcv",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 95",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "ninety-five"
+                ]
+            }
+        ]
+    },
+    "xcvi": {
+        "word": "xcvi",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 96",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "ninety-six"
+                ]
+            }
+        ]
+    },
+    "xcvii": {
+        "word": "xcvii",
+        "meanings": [
+            {
+                "def": "the number 97 in Roman numerals",
+                "example": "It's my xcvii birthday, Augustus!",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "ninety-seven"
+                ]
+            }
+        ]
+    },
+    "xcviii": {
+        "word": "xcviii",
+        "meanings": [
+            {
+                "def": "the Roman numeral for 98",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "ninety-eight"
+                ]
+            }
+        ]
+    },
+    "xeric": {
+        "word": "xeric",
+        "meanings": [
+            {
+                "def": "being deficient in moisture",
+                "example": "The Sahara desert is a xeric environment \u2013 it rarely rains there.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "xerophytic": {
+        "word": "xerophytic",
+        "meanings": [
+            {
+                "def": "adapted to a dry environment",
+                "example": "Cacti are xerophytic plants.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "xenogeneic": {
+        "word": "xenogeneic",
+        "meanings": [
+            {
+                "def": "denoting or relating to cells or tissues from individuals belonging to different species",
+                "example": "The xenogenic reactions of trees and mosses is quite fascinating.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "X-linked": {
+        "word": "X-linked",
+        "meanings": [
+            {
+                "def": "relating to genes or characteristics or conditions carried on the X chromosome",
+                "example": "I think it might be an X-linked mutation.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "xerographic": {
+        "word": "xerographic",
+        "meanings": [
+            {
+                "def": "of or relating to copying paper or other items, aka xerography",
+                "example": "Our xerographic machine was on the fritz.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "X-raying": {
+        "word": "X-raying",
+        "meanings": [
+            {
+                "def": "obtaining images by the use of X rays",
+                "example": "The pictures from the X-raying were analyzed by the dentist.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xerography": {
+        "word": "xerography",
+        "meanings": [
+            {
+                "def": "forming an image by the action of light on a specially coated charged plate",
+                "example": "The machine used xerography to print copies.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xeroradiography": {
+        "word": "xeroradiography",
+        "meanings": [
+            {
+                "def": "radiography using X-rays and xerographic techniques",
+                "example": "The radiologist specialized in xeroradiography.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xenotransplant": {
+        "word": "xenotransplant",
+        "meanings": [
+            {
+                "def": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xenotransplantation"
+                ]
+            }
+        ]
+    },
+    "xenotransplantation": {
+        "word": "xenotransplantation",
+        "meanings": [
+            {
+                "def": "a surgical procedure in which tissue or whole organs are transfered from one species to another species",
+                "example": "The comparable sizes of organs in pigs and humans means that xenotransplantation could be feasible.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xenotransplant"
+                ]
+            }
+        ]
+    },
+    "xanthomonad": {
+        "word": "xanthomonad",
+        "meanings": [
+            {
+                "def": "bacteria producing yellow non-water-soluble pigments",
+                "example": "I cultured a flask full of xanthomonad.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xylophone": {
+        "word": "xylophone",
+        "meanings": [
+            {
+                "def": "a percussion instrument with wooden bars tuned to produce a chromatic scale, with resonators to help with the sound quality",
+                "example": "The children were encouraged to play the xylophone.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "marimba"
+                ]
+            }
+        ]
+    },
+    "X ray": {
+        "word": "X ray",
+        "meanings": [
+            {
+                "def": "a radiogram made by exposing photographic film to X rays",
+                "speech_part": "noun",
+                "synonyms": [
+                    "roentgenogram"
+                ]
+            },
+            {
+                "def": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
+                "speech_part": "noun",
+                "synonyms": [
+                    "X-ray",
+                    "roentgen ray"
+                ]
+            }
+        ]
+    },
+    "X-ray": {
+        "word": "X-ray",
+        "meanings": [
+            {
+                "def": "a radiogram made by exposing photographic film to X rays",
+                "speech_part": "noun",
+                "synonyms": [
+                    "roentgenogram"
+                ]
+            },
+            {
+                "def": "electromagnetic radiation of short wavelength produced when high-speed electrons strike a solid target",
+                "speech_part": "noun",
+                "synonyms": [
+                    "X ray"
+                ]
+            }
+        ]
+    },
+    "Xerox": {
+        "word": "Xerox",
+        "meanings": [
+            {
+                "def": "a duplicator (trade mark Xerox) that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xerographic copier"
+                ]
+            }
+        ]
+    },
+    "xerographic copier": {
+        "word": "xerographic copier",
+        "meanings": [
+            {
+                "def": "a duplicator that copies graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder",
+                "example": "The office has a xerographic copier for making multiples of its newsletters.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "Xerox"
+                ]
+            }
+        ]
+    },
+    "xerox": {
+        "word": "xerox",
+        "meanings": [
+            {
+                "def": "a copy made by a xerographic printer",
+                "speech_part": "noun",
+                "synonyms": []
+            },
+            {
+                "def": "reproduce by xerography",
+                "speech_part": "verb",
+                "synonyms": [
+                    "photocopy"
+                ]
+            }
+        ]
+    },
+    "X-OR circuit": {
+        "word": "X-OR circuit",
+        "meanings": [
+            {
+                "def": "gate for exclusive OR",
+                "speech_part": "noun",
+                "synonyms": [
+                    "XOR circuit",
+                    "XOR gate"
+                ]
+            }
+        ]
+    },
+    "XOR circuit": {
+        "word": "XOR circuit",
+        "meanings": [
+            {
+                "def": "gate for exclusive OR",
+                "speech_part": "noun",
+                "synonyms": [
+                    "X-OR circuit"
+                ]
+            }
+        ]
+    },
+    "XOR gate": {
+        "word": "XOR gate",
+        "meanings": [
+            {
+                "def": "gate for exclusive OR, used in circuit design",
+                "example": "",
+                "speech_part": "noun",
+                "synonyms": [
+                    "X-OR circuit"
+                ]
+            }
+        ]
+    },
+    "xiphoid process": {
+        "word": "xiphoid process",
+        "meanings": [
+            {
+                "def": "smallest of the three parts of the breastbone",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xenograft": {
+        "word": "xenograft",
+        "meanings": [
+            {
+                "def": "tissue from an animal of one species used as a temporary graft, as in cases of severe burns, on an individual of another species",
+                "example": "The surgeons used skin from a pig as a xenograft.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "heterograft"
+                ]
+            }
+        ]
+    },
+    "x-axis": {
+        "word": "x-axis",
+        "meanings": [
+            {
+                "def": "the horizontal axis in a plane coordinate system",
+                "example": "We marked the x-axis with the number of visitors that the museum received.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xenolith": {
+        "word": "xenolith",
+        "meanings": [
+            {
+                "def": "a piece of rock of different origin from the igneous rock in which it is embedded",
+                "example": "",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xylophonist": {
+        "word": "xylophonist",
+        "meanings": [
+            {
+                "def": "someone who plays a xylophone",
+                "example": "The xylophonist played the Danse Macabre.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xenogenesis": {
+        "word": "xenogenesis",
+        "meanings": [
+            {
+                "def": "the production of offspring that is distinct from either parent",
+                "example": "The two creatures did not look alike, but were thought to be different stages in xenogenesis.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "alternation of generations"
+                ]
+            }
+        ]
+    },
+    "xerophyte": {
+        "word": "xerophyte",
+        "meanings": [
+            {
+                "def": "plant adapted for life with a limited supply of water",
+                "example": "The gardener loved the easy maintenance of the xerophyte.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "desert plant"
+                ]
+            }
+        ]
+    },
+    "xerophytic plant": {
+        "word": "xerophytic plant",
+        "meanings": [
+            {
+                "def": "plant adapted for life with a limited supply of water",
+                "example": "The xerophytic plant was well adapted to the high desert climate.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "desert plant"
+                ]
+            }
+        ]
+    },
+    "xerophile": {
+        "word": "xerophile",
+        "meanings": [
+            {
+                "def": "plant adapted for life with a limited supply of water",
+                "example": "Cacti are some of the most well-known xerophiles.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "desert plant"
+                ]
+            }
+        ]
+    },
+    "xerophilous plant": {
+        "word": "xerophilous plant",
+        "meanings": [
+            {
+                "def": "plant adapted for life with a limited supply of water",
+                "example": "The cactus is the easiest example of a xerophilous plant.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "desert plant"
+                ]
+            }
+        ]
+    },
+    "xylem": {
+        "word": "xylem",
+        "meanings": [
+            {
+                "def": "the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels",
+                "example": "The xylem carries water up into the tree.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xanthelasma": {
+        "word": "xanthelasma",
+        "meanings": [
+            {
+                "def": "xanthoma of the eyelids",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xanthoma": {
+        "word": "xanthoma",
+        "meanings": [
+            {
+                "def": "a skin problem marked by the development of irregular yellow nodules on the eyelids, neck and back",
+                "example": "The patient is suffering from xanthoma.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xanthoma disseminatum": {
+        "word": "xanthoma disseminatum",
+        "meanings": [
+            {
+                "def": "rare chronic xanthoma of adults in which orange or brownish papules develop on many surfaces of the body",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xanthomatosis": {
+        "word": "xanthomatosis",
+        "meanings": [
+            {
+                "def": "widespread xanthomas (especially on elbows and knees)",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xanthoma multiplex",
+                    "cholesterosis cutis",
+                    "lipid granulomatosis"
+                ]
+            }
+        ]
+    },
+    "xanthoma multiplex": {
+        "word": "xanthoma multiplex",
+        "meanings": [
+            {
+                "def": "widespread yellowish deposits of cholesterol, found especially on the elbows and knees",
+                "example": "The child presented with xanthoma multiplex.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xanthomatosis"
+                ]
+            }
+        ]
+    },
+    "xanthosis": {
+        "word": "xanthosis",
+        "meanings": [
+            {
+                "def": "an abnormal yellow discoloration of the skin",
+                "example": "The child was so unhealthy that the skin displayed xanthosis.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xenophobia": {
+        "word": "xenophobia",
+        "meanings": [
+            {
+                "def": "a fear of foreigners or strangers",
+                "example": "I think your xenophobia might be cured by a trip abroad.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xanthopsia": {
+        "word": "xanthopsia",
+        "meanings": [
+            {
+                "def": "visual defect in which objects appear to have a yellowish hue",
+                "example": "The drug digitalin is thought to cause xanthopsia.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xerotes": {
+        "word": "xerotes",
+        "meanings": [
+            {
+                "def": "the condition of not containing or being covered by a liquid, especially water",
+                "example": "The xerotes of the skin was helped by applying a wax.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "dryness"
+                ]
+            }
+        ]
+    },
+    "xeroderma": {
+        "word": "xeroderma",
+        "meanings": [
+            {
+                "def": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xerodermia"
+                ]
+            }
+        ]
+    },
+    "xerodermia": {
+        "word": "xerodermia",
+        "meanings": [
+            {
+                "def": "a mild form of ichthyosis characterized by abnormal dryness and roughness of the skin",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xeroderma"
+                ]
+            }
+        ]
+    },
+    "xeroderma pigmentosum": {
+        "word": "xeroderma pigmentosum",
+        "meanings": [
+            {
+                "def": "a rare genetic condition characterized by an eruption of exposed skin occurring in childhood and photosensitivity with severe sunburn",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xerophthalmia": {
+        "word": "xerophthalmia",
+        "meanings": [
+            {
+                "def": "abnormal dryness of the conjunctiva and cornea of the eyes",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xerophthalmus",
+                    "xeroma",
+                    "conjunctivitis arida"
+                ]
+            }
+        ]
+    },
+    "xerophthalmus": {
+        "word": "xerophthalmus",
+        "meanings": [
+            {
+                "def": "abnormal dryness of the conjunctiva and cornea of the eyes",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xerophthalmia"
+                ]
+            }
+        ]
+    },
+    "xeroma": {
+        "word": "xeroma",
+        "meanings": [
+            {
+                "def": "abnormal dryness of the conjunctiva and cornea of the eyes",
+                "example": "Your eyes have a condition called xeroma.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xerophthalmia"
+                ]
+            }
+        ]
+    },
+    "xerostomia": {
+        "word": "xerostomia",
+        "meanings": [
+            {
+                "def": "abnormal dryness of the mouth resulting from decreased secretion of saliva",
+                "speech_part": "noun",
+                "synonyms": [
+                    "dry mouth"
+                ]
+            }
+        ]
+    },
+    "xanthemia": {
+        "word": "xanthemia",
+        "meanings": [
+            {
+                "def": "excess carotene in the blood stream",
+                "example": "Eating too many carrots had contributed to the child's xanthemia.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "carotenemia"
+                ]
+            }
+        ]
+    },
+    "xenon": {
+        "word": "xenon",
+        "meanings": [
+            {
+                "def": "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts",
+                "example": "The canister was filled with xenon.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "xanthophyll": {
+        "word": "xanthophyll",
+        "meanings": [
+            {
+                "def": "yellow carotenoid pigments in plants and animal fats and egg yolks",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xanthophyl",
+                    "lutein"
+                ]
+            }
+        ]
+    },
+    "xanthophyl": {
+        "word": "xanthophyl",
+        "meanings": [
+            {
+                "def": "yellow carotenoid pigments in plants and animal fats and egg yolks",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xanthophyll"
+                ]
+            }
+        ]
+    },
+    "xanthate": {
+        "word": "xanthate",
+        "meanings": [
+            {
+                "def": "a salt or ester of xanthic acid",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xanthic acid": {
+        "word": "xanthic acid",
+        "meanings": [
+            {
+                "def": "any of a class of unstable organic acids containing sulphur",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xanthine": {
+        "word": "xanthine",
+        "meanings": [
+            {
+                "def": "crystalline oxidation product of the metabolism of nucleoproteins",
+                "example": "Once generated from guanine, xanthine is often turned into uric acid.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xylose": {
+        "word": "xylose",
+        "meanings": [
+            {
+                "def": "a sugar extracted from wood or straw",
+                "example": "Xylose is found in most plants that humans consume.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "wood sugar"
+                ]
+            }
+        ]
+    },
+    "xenotime": {
+        "word": "xenotime",
+        "meanings": [
+            {
+                "def": "a brown-to-yellow mineral that is a phosphate of yttrium in crystalline form",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "xylene": {
+        "word": "xylene",
+        "meanings": [
+            {
+                "def": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xylol"
+                ]
+            }
+        ]
+    },
+    "xylol": {
+        "word": "xylol",
+        "meanings": [
+            {
+                "def": "a colorless flammable volatile liquid hydrocarbon used as a solvent",
+                "example": "The only way the powder would dissolve was in xylol.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "xylene"
+                ]
+            }
+        ]
+    },
+    "x-ray": {
+        "word": "x-ray",
+        "meanings": [
+            {
+                "def": "take an x-ray of something or somebody",
+                "example": "The doctor x-rayed my chest",
+                "speech_part": "verb"
+            },
+            {
+                "def": "examine by taking x-rays",
+                "speech_part": "verb"
+            }
+        ]
+    }
+}

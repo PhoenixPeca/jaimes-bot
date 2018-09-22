@@ -1,0 +1,2389 @@
+{
+    "zealously": {
+        "word": "zealously",
+        "meanings": [
+            {
+                "def": "in a passionate manner",
+                "example": "I worked zealously to raise funds for the literacy project.",
+                "speech_part": "adverb"
+            }
+        ]
+    },
+    "zestfully": {
+        "word": "zestfully",
+        "meanings": [
+            {
+                "def": "vigorously and with enthusiastic enjoyment",
+                "example": "I scrubbed the floors of the new apartment zestfully.",
+                "speech_part": "adverb",
+                "synonyms": [
+                    "zestily"
+                ]
+            }
+        ]
+    },
+    "zestily": {
+        "word": "zestily",
+        "meanings": [
+            {
+                "def": "with zest ",
+                "example": "The street artist performed zestily for the enthusiastic crowd.",
+                "speech_part": "adverb",
+                "synonyms": [
+                    "zestfully"
+                ]
+            }
+        ]
+    },
+    "zigzag": {
+        "word": "zigzag",
+        "meanings": [
+            {
+                "def": "in a zigzag course or on a zigzag path",
+                "example": "birds flew zigzag across the blue sky",
+                "speech_part": "adverb"
+            },
+            {
+                "def": "having short sharp turns or angles",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "zig-zag"
+                ]
+            },
+            {
+                "def": "an angular shape characterized by sharp turns in alternating directions",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zig",
+                    "zag"
+                ]
+            },
+            {
+                "def": "travel along a zigzag path",
+                "example": "The river zigzags through the countryside",
+                "speech_part": "verb",
+                "synonyms": [
+                    "crank"
+                ]
+            }
+        ]
+    },
+    "zoophagous": {
+        "word": "zoophagous",
+        "meanings": [
+            {
+                "def": "of animals, carnivorous",
+                "example": "Wolves are zoophagous.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "flesh-eating"
+                ]
+            }
+        ]
+    },
+    "zippy": {
+        "word": "zippy",
+        "meanings": [
+            {
+                "def": "marked by lively action",
+                "example": "The zippy animations were eye catching.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "spirited"
+                ]
+            },
+            {
+                "def": "quick and energetic",
+                "example": "The children were zippy after their nap.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "rattling"
+                ]
+            }
+        ]
+    },
+    "zealous": {
+        "word": "zealous",
+        "meanings": [
+            {
+                "def": "marked by active interest and enthusiasm",
+                "example": "The teacher enjoyed having such zealous students.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "avid"
+                ]
+            }
+        ]
+    },
+    "zaftig": {
+        "word": "zaftig",
+        "meanings": [
+            {
+                "def": "a woman being healthily plump and vigorous",
+                "example": "The leading actress was a zaftig brunette.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "buxom"
+                ]
+            }
+        ]
+    },
+    "zoftig": {
+        "word": "zoftig",
+        "meanings": [
+            {
+                "def": "healthily plump and vigorous, usually referring to a woman",
+                "example": "The artist mostly painted zoftig figures.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "buxom"
+                ]
+            }
+        ]
+    },
+    "zygodactyl": {
+        "word": "zygodactyl",
+        "meanings": [
+            {
+                "def": "of bird feet, having the first and fourth toes directed backward the second and third forward",
+                "example": "",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zany": {
+        "word": "zany",
+        "meanings": [
+            {
+                "def": "ludicrous, foolish, like a clown",
+                "example": "The entertainer was known for their zany antics.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "buffoonish"
+                ]
+            },
+            {
+                "def": "a buffoon in one of the old comedies, or someone who is a stupid incompetent fool",
+                "example": "The zany is funny.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zero": {
+        "word": "zero",
+        "meanings": [
+            {
+                "def": "indicating the absence of any or all units under consideration",
+                "example": "a zero score",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "indicating an initial point or origin",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "of or relating to the null set (a set with no members)",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "the sight setting that will cause a projectile to hit the center of the target with no wind blowing",
+                "speech_part": "noun"
+            },
+            {
+                "def": "the point on a scale from which positive or negative numerical quantities can be measured",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zero point"
+                ]
+            },
+            {
+                "def": "a quantity of no importance",
+                "speech_part": "noun",
+                "synonyms": [
+                    "nothing"
+                ]
+            },
+            {
+                "def": "a mathematical element that when added to another number yields the same number",
+                "speech_part": "noun",
+                "synonyms": [
+                    "cipher",
+                    "cypher",
+                    "nought"
+                ]
+            },
+            {
+                "def": "adjust, as by firing under test conditions, the zero of a gun",
+                "example": "I zeroed in my rifle at 200 yards.",
+                "speech_part": "verb",
+                "synonyms": [
+                    "zero in"
+                ]
+            },
+            {
+                "def": "adjust (an instrument or device) to zero value",
+                "speech_part": "verb"
+            },
+            {
+                "def": "having no measurable or otherwise determinable value",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zeroth": {
+        "word": "zeroth",
+        "meanings": [
+            {
+                "def": "preceding even the first",
+                "example": "It is the zeroth hour on this project and we have a lot to get done.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zillion": {
+        "word": "zillion",
+        "meanings": [
+            {
+                "def": "a very large indefinite number, usually hyperbole",
+                "example": "They have a zillion ideas for new ventures.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "billion",
+                    "trillion",
+                    "jillion",
+                    "gazillion",
+                    "million"
+                ]
+            },
+            {
+                "def": "very large indeterminate number",
+                "example": "a zillion people were there",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zestful": {
+        "word": "zestful",
+        "meanings": [
+            {
+                "def": "marked by spirited enjoyment",
+                "example": "The hedonists devoted themselves to a zestful enjoyment of life.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "yeasty"
+                ]
+            }
+        ]
+    },
+    "zesty": {
+        "word": "zesty",
+        "meanings": [
+            {
+                "def": "marked by spirited enjoyment",
+                "example": "The zesty entertainers did back-flips for the crowd.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "yeasty"
+                ]
+            },
+            {
+                "def": "having an agreeably pungent taste",
+                "example": "The lime pie was delicious and zesty.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "savory"
+                ]
+            }
+        ]
+    },
+    "zig-zag": {
+        "word": "zig-zag",
+        "meanings": [
+            {
+                "def": "having short sharp turns or angles",
+                "example": "Driving down the zig-zag road made me sick to my stomach.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "zigzag"
+                ]
+            }
+        ]
+    },
+    "zygomorphic": {
+        "word": "zygomorphic",
+        "meanings": [
+            {
+                "def": "capable of division into symmetrical halves by only one longitudinal plane passing through the axis",
+                "example": "This shape is clearly zygomorphic.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "bilaterally symmetrical"
+                ]
+            }
+        ]
+    },
+    "zygomorphous": {
+        "word": "zygomorphous",
+        "meanings": [
+            {
+                "def": "capable of division into symmetrical halves by only one longitudinal plane passing through the axis",
+                "example": "The shape is zygomorphous.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "bilaterally symmetrical"
+                ]
+            }
+        ]
+    },
+    "zonal": {
+        "word": "zonal",
+        "meanings": [
+            {
+                "def": "associated with or divided into zones",
+                "example": "The zonal pattern of this painting hides its complexity.",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "relating to or similar to a zone",
+                "example": "The zonal nature of our sales is troubling.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "zonary"
+                ]
+            }
+        ]
+    },
+    "zoic": {
+        "word": "zoic",
+        "meanings": [
+            {
+                "def": "pertaining to animals or animal life or action",
+                "example": "There is zoic evidence in the fossil record.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zoological": {
+        "word": "zoological",
+        "meanings": [
+            {
+                "def": "of or relating to animals or animal groups",
+                "example": "The zoological garden receives hundreds of visitors per day.",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "concerning the study of animals and their classification and properties",
+                "example": "Zoological research has led to many interesting discoveries.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zygotic": {
+        "word": "zygotic",
+        "meanings": [
+            {
+                "def": "of or relating to a zygote",
+                "example": "The zygotic cells travel trough the Fallopian tubes.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "Zoroastrian": {
+        "word": "Zoroastrian",
+        "meanings": [
+            {
+                "def": "of or pertaining to Zoroaster or Zoroastrianism",
+                "example": "The main Zoroastrian god is Ahura Mazda.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zymotic": {
+        "word": "zymotic",
+        "meanings": [
+            {
+                "def": "relating to or caused by infection",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "of or relating to or causing fermentation",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "zymolytic"
+                ]
+            }
+        ]
+    },
+    "zymolytic": {
+        "word": "zymolytic",
+        "meanings": [
+            {
+                "def": "of or relating to or causing fermentation",
+                "example": "Zymolytic processes can be fun to study.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "zymotic"
+                ]
+            }
+        ]
+    },
+    "Zolaesque": {
+        "word": "Zolaesque",
+        "meanings": [
+            {
+                "def": "in the manner of Emile Zola",
+                "example": "This book is truly Zolaesque.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zenithal": {
+        "word": "zenithal",
+        "meanings": [
+            {
+                "def": "relating to or located at or near the zenith",
+                "example": "The star is zenithal.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "Zimbabwean": {
+        "word": "Zimbabwean",
+        "meanings": [
+            {
+                "def": "of or relating to or characteristic of Zimbabwe or its people",
+                "example": "The Zimbabwean president has been in office for a long time.",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "a person from Zimbabwe or of Zimbabwean descent",
+                "example": "The Zimbabwean was born on the high veld.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "Zionist": {
+        "word": "Zionist",
+        "meanings": [
+            {
+                "def": "relating to or characteristic of a supporter of Zionism",
+                "example": "The Zionist leader was despised in Palestine.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zonary": {
+        "word": "zonary",
+        "meanings": [
+            {
+                "def": "relating to or of the nature of a zone",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "zonal"
+                ]
+            }
+        ]
+    },
+    "zodiacal": {
+        "word": "zodiacal",
+        "meanings": [
+            {
+                "def": "relating to or included in the zodiac",
+                "example": "The zodiacal constellations are spread out through the sky.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "Zapotec": {
+        "word": "Zapotec",
+        "meanings": [
+            {
+                "def": "of or relating to the language or culture of the Zapotec people",
+                "example": "The linguists were interested in the development of Zapotec language.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zoonotic": {
+        "word": "zoonotic",
+        "meanings": [
+            {
+                "def": "of or relating to or constituting zoonosis",
+                "example": "The Ebola virus is believed to be zoonotic in nature.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zygomatic": {
+        "word": "zygomatic",
+        "meanings": [
+            {
+                "def": "of or relating to the cheek region of the face",
+                "speech_part": "adjective"
+            },
+            {
+                "def": "the arch of bone beneath the eye that forms the prominence of the cheek",
+                "speech_part": "noun",
+                "synonyms": [
+                    "cheekbone",
+                    "malar",
+                    "malar bone",
+                    "jugal bone",
+                    "os zygomaticum"
+                ]
+            }
+        ]
+    },
+    "zymoid": {
+        "word": "zymoid",
+        "meanings": [
+            {
+                "def": "resembling an enzyme",
+                "example": "",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "Zairean": {
+        "word": "Zairean",
+        "meanings": [
+            {
+                "def": "of or relating to or characteristic of Zaire or its people",
+                "example": "Zairean elections",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "Zairese"
+                ]
+            }
+        ]
+    },
+    "Zairese": {
+        "word": "Zairese",
+        "meanings": [
+            {
+                "def": "of, relating to, or characteristic of Zaire or its people",
+                "example": "Full political control of the Zairese people was taken under the dictatorship ruled by Mobutu Sese Seko.",
+                "speech_part": "adjective",
+                "synonyms": [
+                    "Zairean"
+                ]
+            }
+        ]
+    },
+    "Zambian": {
+        "word": "Zambian",
+        "meanings": [
+            {
+                "def": "of or relating to or characteristic of Zambia or its people",
+                "example": "The Zambian restaurant makes a great maize porridge called nshima.",
+                "speech_part": "adjective"
+            }
+        ]
+    },
+    "zoom": {
+        "word": "zoom",
+        "meanings": [
+            {
+                "def": "the act of rising upward into the air",
+                "speech_part": "noun",
+                "synonyms": [
+                    "soar"
+                ]
+            },
+            {
+                "def": "a rapid rise",
+                "speech_part": "noun",
+                "synonyms": [
+                    "rapid climb",
+                    "rapid growth"
+                ]
+            },
+            {
+                "def": "rise rapidly",
+                "speech_part": "verb",
+                "synonyms": [
+                    "soar"
+                ]
+            },
+            {
+                "def": "move along very quickly",
+                "speech_part": "verb",
+                "synonyms": [
+                    "whizz",
+                    "zoom along",
+                    "whizz along"
+                ]
+            },
+            {
+                "def": "move with a low humming noise",
+                "speech_part": "verb"
+            }
+        ]
+    },
+    "zero-sum game": {
+        "word": "zero-sum game",
+        "meanings": [
+            {
+                "def": "a game in which the total of all the gains and losses is zero",
+                "example": "Friendship is not a zero-sum game.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoophilia": {
+        "word": "zoophilia",
+        "meanings": [
+            {
+                "def": "a sexual attraction to animals",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zoophilism"
+                ]
+            }
+        ]
+    },
+    "zoophilism": {
+        "word": "zoophilism",
+        "meanings": [
+            {
+                "def": "a sexual attraction to animals",
+                "example": "The patient's zoophilism landed them in jail.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zoophilia"
+                ]
+            }
+        ]
+    },
+    "zooerastia": {
+        "word": "zooerastia",
+        "meanings": [
+            {
+                "def": "sexual activity between a person and an animal",
+                "example": "Zooerastia is a crime in many jurisdictions.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "bestiality"
+                ]
+            }
+        ]
+    },
+    "zooerasty": {
+        "word": "zooerasty",
+        "meanings": [
+            {
+                "def": "sexual activity between a person and an animal",
+                "example": "Zooerasty is illegal in many places.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "bestiality"
+                ]
+            }
+        ]
+    },
+    "zizz": {
+        "word": "zizz",
+        "meanings": [
+            {
+                "def": "a nap or short period of sleeping",
+                "example": "Arthur's taking a short zizz.",
+                "speech_part": "noun"
+            },
+            {
+                "def": "a buzzing or whizzing sound",
+                "example": "A nasty zizz in the engine.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoning": {
+        "word": "zoning",
+        "meanings": [
+            {
+                "def": "dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc.",
+                "example": "We need to change the zoning on the south side to allow for a new distillery.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zone fire": {
+        "word": "zone fire",
+        "meanings": [
+            {
+                "def": "artillery or mortar fire delivered in a constant direction at several quadrant elevations",
+                "example": "The zone fire was called in by the artillery commander.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoolatry": {
+        "word": "zoolatry",
+        "meanings": [
+            {
+                "def": "the worship of animals",
+                "speech_part": "noun",
+                "synonyms": [
+                    "animal-worship"
+                ]
+            }
+        ]
+    },
+    "zooplankton": {
+        "word": "zooplankton",
+        "meanings": [
+            {
+                "def": "animal constituent of plankton",
+                "example": "The zooplankton were thriving in the toxin-free environment.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zooid": {
+        "word": "zooid",
+        "meanings": [
+            {
+                "def": "one of the distinct individuals forming a colonial animal such as a bryozoan or hydrozoan",
+                "example": "Zooids form colonial animals.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoomastigote": {
+        "word": "zoomastigote",
+        "meanings": [
+            {
+                "def": "flagellate protozoan lacking photosynthesis and other plant-like characteristics",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zebra-tailed lizard": {
+        "word": "zebra-tailed lizard",
+        "meanings": [
+            {
+                "def": "swift lizard with long black-banded tail and long legs",
+                "speech_part": "noun",
+                "synonyms": [
+                    "gridiron-tailed lizard"
+                ]
+            }
+        ]
+    },
+    "zoophyte": {
+        "word": "zoophyte",
+        "meanings": [
+            {
+                "def": "any of various invertebrate animals resembling a plant such as a sea anemone or coral or sponge",
+                "example": "I study the development of zoophytes.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zebra mussel": {
+        "word": "zebra mussel",
+        "meanings": [
+            {
+                "def": "inch long mollusk, known for being a highly invasive species in various parts of the world",
+                "example": "The zebra mussels don't taste very good.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zebra": {
+        "word": "zebra",
+        "meanings": [
+            {
+                "def": "any of several fleet black-and-white striped African equines",
+                "example": "I saw some zebras at the zoo.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zebu": {
+        "word": "zebu",
+        "meanings": [
+            {
+                "def": "a domesticated ox having a humped back, long horns, and a large dewlap",
+                "example": "The farmer has been raising zebu in southern India for the last twelve years.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoo": {
+        "word": "zoo",
+        "meanings": [
+            {
+                "def": "the facility where wild animals are housed for exhibition",
+                "example": "The children like to visit the zoo, especially the monkey cage.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "menagerie"
+                ]
+            }
+        ]
+    },
+    "zebra crossing": {
+        "word": "zebra crossing",
+        "meanings": [
+            {
+                "def": "street crossing where pedestrians have right of way",
+                "example": "There is a zebra crossing two blocks down where it is safe to cross.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "pedestrian crossing"
+                ]
+            }
+        ]
+    },
+    "zori": {
+        "word": "zori",
+        "meanings": [
+            {
+                "def": "a sandal attached to the foot by a thong over the toes",
+                "example": "I got a pair of zoris for the beach.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "pusher"
+                ]
+            }
+        ]
+    },
+    "zip": {
+        "word": "zip",
+        "meanings": [
+            {
+                "def": "a fastener for locking together two toothed edges by means of a sliding tab",
+                "speech_part": "noun",
+                "synonyms": [
+                    "slide fastener"
+                ]
+            },
+            {
+                "def": "forceful exertion",
+                "speech_part": "noun",
+                "synonyms": [
+                    "energy"
+                ]
+            },
+            {
+                "def": "a quantity of no importance",
+                "speech_part": "noun",
+                "synonyms": [
+                    "nothing"
+                ]
+            },
+            {
+                "def": "close with a zipper",
+                "speech_part": "verb",
+                "synonyms": [
+                    "zipper",
+                    "zip up"
+                ]
+            },
+            {
+                "def": "move very fast",
+                "example": "The runner zipped past us at breakneck speed",
+                "speech_part": "verb",
+                "synonyms": [
+                    "speed"
+                ]
+            }
+        ]
+    },
+    "zipper": {
+        "word": "zipper",
+        "meanings": [
+            {
+                "def": "a fastener for locking together two toothed edges by means of a sliding tab",
+                "example": "My zipper is broken.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "slide fastener"
+                ]
+            },
+            {
+                "def": "to close with a zipper",
+                "example": "Zipper your coat.",
+                "speech_part": "verb",
+                "synonyms": [
+                    "zip"
+                ]
+            }
+        ]
+    },
+    "zip fastener": {
+        "word": "zip fastener",
+        "meanings": [
+            {
+                "def": "a fastener for locking together two toothed edges by means of a sliding tab",
+                "example": "This zip fastener is stuck.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "slide fastener"
+                ]
+            }
+        ]
+    },
+    "zoom lens": {
+        "word": "zoom lens",
+        "meanings": [
+            {
+                "def": "a camera lens that magnifies the image",
+                "example": "I need a zoom lens to get a decent picture from this distance.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "telephoto lens"
+                ]
+            }
+        ]
+    },
+    "Zamboni": {
+        "word": "Zamboni",
+        "meanings": [
+            {
+                "def": "the trademark for a machine that smooths the ice in an ice-skating rink",
+                "example": "My favourite part of any curling game is watching the Zamboni go around and around the rink.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zapper": {
+        "word": "zapper",
+        "meanings": [
+            {
+                "def": "an electrical device that can injure or kill by means of electric currents",
+                "example": "Buying that bug zapper was the best decision I ever made.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zarf": {
+        "word": "zarf",
+        "meanings": [
+            {
+                "def": "an ornamental metal cup-shaped holder for a hot coffee cup",
+                "example": "I put my coffee into the zarf, and then everyone looked at me funny.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zeppelin": {
+        "word": "zeppelin",
+        "meanings": [
+            {
+                "def": "a large rigid dirigible designed to carry passengers or bombs",
+                "example": "The zeppelin has a troubled history in aviation.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zikkurat": {
+        "word": "zikkurat",
+        "meanings": [
+            {
+                "def": "a rectangularly tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
+                "example": "A super-sized ziggurat was built in Uruk for the goddess Inanna.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            }
+        ]
+    },
+    "ziggurat": {
+        "word": "ziggurat",
+        "meanings": [
+            {
+                "def": "a rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
+                "example": "It is quite impressive to stand in front of a zikurat.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            }
+        ]
+    },
+    "zikurat": {
+        "word": "zikurat",
+        "meanings": [
+            {
+                "def": "a rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
+                "example": "It is quite impressive to stand in front of a zikurat.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            }
+        ]
+    },
+    "zill": {
+        "word": "zill",
+        "meanings": [
+            {
+                "def": "one of a pair of small metallic cymbals worn on the thumb and middle finger",
+                "example": "I broke a zill at the party last night.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zip gun": {
+        "word": "zip gun",
+        "meanings": [
+            {
+                "def": "a crude homemade pistol",
+                "example": "Some politicians fear a rise in 3D printed zip guns.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zither": {
+        "word": "zither",
+        "meanings": [
+            {
+                "def": "a musical stringed instrument with strings stretched over a flat sounding board",
+                "example": "The band wanted a new zither player.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "cither"
+                ]
+            }
+        ]
+    },
+    "zithern": {
+        "word": "zithern",
+        "meanings": [
+            {
+                "def": "a musical stringed instrument with strings stretched over a flat sounding board",
+                "example": "I bought a zithern while on vacation in Germany.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "cither"
+                ]
+            }
+        ]
+    },
+    "zodiac": {
+        "word": "zodiac",
+        "meanings": [
+            {
+                "def": "in astrology, a circular diagram representing the 12 zodiacal constellations and showing their signs",
+                "example": "The new agers had a zodiac on the wall of their living room.",
+                "speech_part": "noun"
+            },
+            {
+                "def": "a belt-shaped region in the heavens on either side to the ecliptic",
+                "example": "We tried to find a zodiac in the night sky.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoot suit": {
+        "word": "zoot suit",
+        "meanings": [
+            {
+                "def": "a flashy suit of extreme cut",
+                "example": "The zoot suit did not seem appropriate for the serious event.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zeal": {
+        "word": "zeal",
+        "meanings": [
+            {
+                "def": "prompt willingness",
+                "example": "Your zeal for the task was apparent in the way you promptly volunteered.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "readiness"
+                ]
+            },
+            {
+                "def": "excessive fervor to do something or accomplish some end",
+                "example": "I have an absolute zeal for litigation.",
+                "speech_part": "noun"
+            },
+            {
+                "def": "a feeling of strong eagerness, usually in favor of a person or cause",
+                "example": "How dare you question my zeal for the cause?",
+                "speech_part": "noun",
+                "synonyms": [
+                    "elan"
+                ]
+            }
+        ]
+    },
+    "zing": {
+        "word": "zing",
+        "meanings": [
+            {
+                "def": "the activeness of an energetic personality",
+                "example": "The new member has lots of zing.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "dynamism"
+                ]
+            },
+            {
+                "def": "a brief high-pitched buzzing or humming sound",
+                "example": "The zing of the passing bullet startled me.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zest": {
+        "word": "zest",
+        "meanings": [
+            {
+                "def": "a tart spicy quality",
+                "speech_part": "noun",
+                "synonyms": [
+                    "nip"
+                ]
+            },
+            {
+                "def": "vigorous and enthusiastic enjoyment",
+                "speech_part": "noun",
+                "synonyms": [
+                    "relish",
+                    "gusto",
+                    "zestfulness"
+                ]
+            },
+            {
+                "def": "add herbs or spices to",
+                "speech_part": "verb",
+                "synonyms": [
+                    "spice"
+                ]
+            }
+        ]
+    },
+    "zygoma": {
+        "word": "zygoma",
+        "meanings": [
+            {
+                "def": "the slender arch formed by the temporal process of the cheekbone that bridges to the zygomatic process of the temporal bone",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zygomatic arch",
+                    "arcus zygomaticus"
+                ]
+            }
+        ]
+    },
+    "zygomatic arch": {
+        "word": "zygomatic arch",
+        "meanings": [
+            {
+                "def": "the slender arch formed by the temporal process of the cheekbone that bridges to the zygomatic process of the temporal bone",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zygoma"
+                ]
+            }
+        ]
+    },
+    "zygote": {
+        "word": "zygote",
+        "meanings": [
+            {
+                "def": "(genetics) the diploid cell resulting from the union of a haploid spermatozoon and ovum (including the organism that develops from that cell)",
+                "speech_part": "noun",
+                "synonyms": [
+                    "fertilized ovum"
+                ]
+            }
+        ]
+    },
+    "zona pellucida": {
+        "word": "zona pellucida",
+        "meanings": [
+            {
+                "def": "thick membrane around the mammalian ovum",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zone": {
+        "word": "zone",
+        "meanings": [
+            {
+                "def": "(anatomy) any encircling or beltlike structure",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zona"
+                ]
+            },
+            {
+                "def": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
+                "speech_part": "noun"
+            },
+            {
+                "def": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
+                "speech_part": "noun",
+                "synonyms": [
+                    "geographical zone"
+                ]
+            },
+            {
+                "def": "a locally circumscribed place characterized by some distinctive features",
+                "speech_part": "noun"
+            },
+            {
+                "def": "separate or apportion into sections",
+                "speech_part": "verb",
+                "synonyms": [
+                    "partition"
+                ]
+            },
+            {
+                "def": "regulate housing in",
+                "speech_part": "verb",
+                "synonyms": [
+                    "district"
+                ]
+            }
+        ]
+    },
+    "zona": {
+        "word": "zona",
+        "meanings": [
+            {
+                "def": "in anatomy, any encircling or beltlike structure",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zone"
+                ]
+            }
+        ]
+    },
+    "zonule": {
+        "word": "zonule",
+        "meanings": [
+            {
+                "def": "small beltlike zone",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zonula"
+                ]
+            }
+        ]
+    },
+    "zonula": {
+        "word": "zonula",
+        "meanings": [
+            {
+                "def": "small beltlike zone",
+                "example": "This zonula is known for its fauna.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zonule"
+                ]
+            }
+        ]
+    },
+    "zoomorphism": {
+        "word": "zoomorphism",
+        "meanings": [
+            {
+                "def": "the attribution of animal forms or qualities to a god",
+                "example": "Ancient cultures often practiced zoomorphism.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zero point": {
+        "word": "zero point",
+        "meanings": [
+            {
+                "def": "the point on a scale from which positive or negative numerical quantities can be measured",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zero"
+                ]
+            }
+        ]
+    },
+    "zakat": {
+        "word": "zakat",
+        "meanings": [
+            {
+                "def": "an Islamic religious tax",
+                "example": "The zakat is earmarked for the poor and disabled.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "z-axis": {
+        "word": "z-axis",
+        "meanings": [
+            {
+                "def": "the third axis in a 3-dimensional coordinate system",
+                "example": "The line needs to be drawn on the z-axis.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "z axis": {
+        "word": "z axis",
+        "meanings": [
+            {
+                "def": "the third axis in a 3-dimensional coordinate system",
+                "example": "The line needs to be drawn on the z-axis.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zymology": {
+        "word": "zymology",
+        "meanings": [
+            {
+                "def": "the branch of chemistry concerned with fermentation (as in making wine or brewing or distilling)",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zymurgy"
+                ]
+            }
+        ]
+    },
+    "zymurgy": {
+        "word": "zymurgy",
+        "meanings": [
+            {
+                "def": "the branch of chemistry concerned with fermentation, as in making wine, brewing, or distilling",
+                "example": "The lab here in Atlanta has been studying how to produce more natural beer for the last five years as part of a project researching zymurgy.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zymology"
+                ]
+            }
+        ]
+    },
+    "zoology": {
+        "word": "zoology",
+        "meanings": [
+            {
+                "def": "the branch of biology that studies animals",
+                "example": "I studied zoology for two semesters before I changed majors.",
+                "speech_part": "noun",
+                "synonyms": []
+            },
+            {
+                "def": "all the animal life in a particular region or period",
+                "example": "The zoology in this area is amazing.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "fauna"
+                ]
+            }
+        ]
+    },
+    "zealotry": {
+        "word": "zealotry",
+        "meanings": [
+            {
+                "def": "excessive intolerance of opposing views",
+                "example": "The party's zealotry was a turn off for many voters.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "fanaticism"
+                ]
+            }
+        ]
+    },
+    "zero tolerance": {
+        "word": "zero tolerance",
+        "meanings": [
+            {
+                "def": "extreme intolerance of antisocial behavior, usually by an uncompromising application of the law",
+                "example": "There is zero tolerance for drugs on school premises.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "ZIP code": {
+        "word": "ZIP code",
+        "meanings": [
+            {
+                "def": "a code of letters and digits added to a postal address to aid in the sorting of mail",
+                "speech_part": "noun",
+                "synonyms": [
+                    "ZIP",
+                    "zip code",
+                    "postcode",
+                    "postal code"
+                ]
+            }
+        ]
+    },
+    "ZIP": {
+        "word": "ZIP",
+        "meanings": [
+            {
+                "def": "a code of letters and digits added to a postal address to aid in the sorting of mail",
+                "example": "I'll need your ZIP so I can mail you the package.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "ZIP code"
+                ]
+            }
+        ]
+    },
+    "zip code": {
+        "word": "zip code",
+        "meanings": [
+            {
+                "def": "a code of letters and digits added to a postal address to aid in the sorting of mail",
+                "example": "I'll need your ZIP so I can mail you the package.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "ZIP code"
+                ]
+            }
+        ]
+    },
+    "zayin": {
+        "word": "zayin",
+        "meanings": [
+            {
+                "def": "the 7th letter of the Hebrew alphabet",
+                "example": "I always forget zayin when I am practicing the alphabet.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "z": {
+        "word": "z",
+        "meanings": [
+            {
+                "def": "the 26th letter of the Roman alphabet",
+                "example": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zee": {
+        "word": "zee",
+        "meanings": [
+            {
+                "def": "the 26th letter of the Roman alphabet",
+                "example": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zed": {
+        "word": "zed",
+        "labels": [
+            {
+                "name": "British",
+                "is_dialect": true
+            }
+        ],
+        "meanings": [
+            {
+                "def": "the 26th letter of the Roman alphabet",
+                "example": "The British call 'Z' zed, and the Scots call it ezed, but Americans call it zee.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zeta": {
+        "word": "zeta",
+        "meanings": [
+            {
+                "def": "the 6th letter of the Greek alphabet",
+                "example": "Zeta would be a cool name for a cat.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zydeco": {
+        "word": "zydeco",
+        "meanings": [
+            {
+                "def": "music of southern Louisiana that combines French dance melodies with Caribbean music and blues",
+                "example": "We're going to dance to zydeco at the pub tonight.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zeugma": {
+        "word": "zeugma",
+        "meanings": [
+            {
+                "def": "use of a word to govern two or more words though appropriate to only one",
+                "example": "'The Pickwicks took their hats and their leave' is an example of zeugma.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zinger": {
+        "word": "zinger",
+        "meanings": [
+            {
+                "def": "a striking, amusing or caustic remark",
+                "example": "I always greet people with a new zinger.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zap": {
+        "word": "zap",
+        "meanings": [
+            {
+                "def": "a sudden event that imparts energy or excitement, usually with a dramatic impact",
+                "example": "they gave it another zap of radiation",
+                "speech_part": "noun"
+            },
+            {
+                "def": "cook or heat in a microwave oven",
+                "speech_part": "verb",
+                "synonyms": [
+                    "nuke"
+                ]
+            },
+            {
+                "def": "strike at with firepower or bombs",
+                "example": "zap the enemy",
+                "speech_part": "verb",
+                "synonyms": [
+                    "nuke"
+                ]
+            },
+            {
+                "def": "kill with or as if with a burst of gunfire or electric current or as if by shooting",
+                "speech_part": "verb",
+                "synonyms": [
+                    "vaporize",
+                    "vaporise"
+                ]
+            },
+            {
+                "def": "strike suddenly and with force",
+                "example": "This show zaps the viewers with some shocking scenes",
+                "speech_part": "verb"
+            }
+        ]
+    },
+    "zestfulness": {
+        "word": "zestfulness",
+        "meanings": [
+            {
+                "def": "vigorous and enthusiastic enjoyment",
+                "example": "Your zestfulness is contagious!",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zest"
+                ]
+            }
+        ]
+    },
+    "zabaglione": {
+        "word": "zabaglione",
+        "meanings": [
+            {
+                "def": "light foamy custard-like dessert served hot or chilled",
+                "speech_part": "noun",
+                "synonyms": [
+                    "sabayon"
+                ]
+            }
+        ]
+    },
+    "zwieback": {
+        "word": "zwieback",
+        "meanings": [
+            {
+                "def": "slice of sweet raised bread baked again until it is brown and hard and crisp",
+                "speech_part": "noun",
+                "synonyms": [
+                    "rusk",
+                    "twice-baked bread"
+                ]
+            }
+        ]
+    },
+    "zucchini": {
+        "word": "zucchini",
+        "meanings": [
+            {
+                "def": "small cucumber-shaped vegetable marrow",
+                "speech_part": "noun",
+                "synonyms": [
+                    "courgette"
+                ]
+            },
+            {
+                "def": "marrow squash plant whose fruit are eaten when small",
+                "speech_part": "noun",
+                "synonyms": [
+                    "courgette"
+                ]
+            }
+        ]
+    },
+    "zep": {
+        "word": "zep",
+        "meanings": [
+            {
+                "def": "a large sandwich made of a long crusty roll split lengthwise and filled with meats, cheese, tomato, onion, lettuce, and condiments",
+                "example": "Let's grab a zep at the corner store.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "torpedo"
+                ]
+            }
+        ]
+    },
+    "ziti": {
+        "word": "ziti",
+        "meanings": [
+            {
+                "def": "medium-sized tubular pasta in short pieces",
+                "example": "The chef used too much ziti in the pasta dish.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zinfandel": {
+        "word": "zinfandel",
+        "meanings": [
+            {
+                "def": "dry fruity red wine from California",
+                "example": "In the summer, I love a good zinfandel.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zombie": {
+        "word": "zombie",
+        "meanings": [
+            {
+                "def": "a cocktail made up of several kinds of rum with fruit juice and usually apricot liqueur",
+                "example": "After one too many zombies at the tiki bar, I stumbled home.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            },
+            {
+                "def": "someone who acts or responds in a mechanical or apathetic way",
+                "example": "The workforce was a group of zombies.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "automaton"
+                ]
+            },
+            {
+                "def": "a dead body that has been brought back to life by a supernatural force",
+                "example": "Some of my favourite horror films contain zombies.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null,
+                    "living dead"
+                ]
+            },
+            {
+                "def": "a god of voodoo cults of African origin, worshipped especially in the West Indies",
+                "example": "Even though I grew up in the Caribbean, I didn't worship the zombie.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null,
+                    "snake god"
+                ]
+            },
+            {
+                "def": "in voodooism, a spirit or supernatural force that reanimates a dead body",
+                "example": "The spell was cast \u2013 the zombie would enter the body of the dead relative.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            }
+        ]
+    },
+    "zombi": {
+        "word": "zombi",
+        "meanings": [
+            {
+                "def": "a cocktail made up of several kinds of rum with fruit juice and usually apricot liqueur",
+                "example": "After one too many zombies at the tiki bar, I stumbled home.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            },
+            {
+                "def": "someone who acts or responds in a mechanical or apathetic way",
+                "example": "The workforce was a group of zombies.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "automaton"
+                ]
+            },
+            {
+                "def": "a dead body that has been brought back to life by a supernatural force",
+                "example": "Some of my favourite horror films contain zombies.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null,
+                    "living dead"
+                ]
+            },
+            {
+                "def": "a god of voodoo cults of African origin, worshipped especially in the West Indies",
+                "example": "Even though I grew up in the Caribbean, I didn't worship the zombie.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null,
+                    "snake god"
+                ]
+            },
+            {
+                "def": "in voodooism, a spirit or supernatural force that reanimates a dead body",
+                "example": "The spell was cast \u2013 the zombie would enter the body of the dead relative.",
+                "speech_part": "noun",
+                "synonyms": [
+                    null
+                ]
+            }
+        ]
+    },
+    "zone of interior": {
+        "word": "zone of interior",
+        "meanings": [
+            {
+                "def": "the part of the theater of war not included in the theater of operations",
+                "example": "The zone of interior was very small.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zenith": {
+        "word": "zenith",
+        "meanings": [
+            {
+                "def": "highest point, peak",
+                "example": "We reached the zenith exhausted but triumphant.",
+                "speech_part": "noun",
+                "synonyms": []
+            },
+            {
+                "def": "in astronomy, the point above the observer that is directly opposite the nadir on the imaginary sphere against which celestial bodies appear to be projected",
+                "example": "The astronomers focused their attention on the zenith.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zealot": {
+        "word": "zealot",
+        "meanings": [
+            {
+                "def": "a fervent and even militant proponent of something",
+                "example": "The sect was full of zealots.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "partisan"
+                ]
+            }
+        ]
+    },
+    "zoo keeper": {
+        "word": "zoo keeper",
+        "meanings": [
+            {
+                "def": "the chief person responsible for a zoological garden",
+                "example": "Zoo keepers have many tasks.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zookeeper": {
+        "word": "zookeeper",
+        "meanings": [
+            {
+                "def": "the chief person responsible for a zoological garden",
+                "example": "Zoo keepers have many tasks.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoologist": {
+        "word": "zoologist",
+        "meanings": [
+            {
+                "def": "a specialist in the branch of biology dealing with animals",
+                "speech_part": "noun",
+                "synonyms": [
+                    "animal scientist"
+                ]
+            }
+        ]
+    },
+    "zephyr": {
+        "word": "zephyr",
+        "meanings": [
+            {
+                "def": "a slight wind, usually refreshing",
+                "example": "What a nice zephyr we have today.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "air"
+                ]
+            }
+        ]
+    },
+    "zoospore": {
+        "word": "zoospore",
+        "meanings": [
+            {
+                "def": "an asexual spore of some algae and fungi that moves by means of flagella",
+                "example": "The zoospores were only visible with a microscope.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zamang": {
+        "word": "zamang",
+        "meanings": [
+            {
+                "def": "large ornamental tropical American tree with bipinnate leaves and globose clusters of flowers with crimson stamens and seed pods that are eaten by cattle",
+                "example": "The landscapers put the zamang near the cattle paddock.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "rain tree"
+                ]
+            }
+        ]
+    },
+    "zebrawood": {
+        "word": "zebrawood",
+        "meanings": [
+            {
+                "def": "any of various trees or shrubs having mottled or striped wood",
+                "speech_part": "noun",
+                "synonyms": []
+            },
+            {
+                "def": "handsomely striped or mottled wood of the zebrawood tree",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zygospore": {
+        "word": "zygospore",
+        "meanings": [
+            {
+                "def": "a plant spore formed by two similar sexual cells",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zero coupon bond": {
+        "word": "zero coupon bond",
+        "meanings": [
+            {
+                "def": "a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zero-coupon bond"
+                ]
+            }
+        ]
+    },
+    "zero-coupon bond": {
+        "word": "zero-coupon bond",
+        "meanings": [
+            {
+                "def": "a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond",
+                "example": "The government issued zero-coupon bonds to raise money for public works.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zero coupon bond"
+                ]
+            }
+        ]
+    },
+    "zero-coupon security": {
+        "word": "zero-coupon security",
+        "meanings": [
+            {
+                "def": "a security that makes no interest payments but instead is sold at a deep discount from its face value",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zygotene": {
+        "word": "zygotene",
+        "meanings": [
+            {
+                "def": "the second stage of the prophase of meiosis",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zymosis": {
+        "word": "zymosis",
+        "meanings": [
+            {
+                "def": "(medicine) the development and spread of an infectious disease (especially one caused by a fungus)",
+                "speech_part": "noun"
+            },
+            {
+                "def": "a process in which an agent causes an organic substance to break down into simpler substances",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zymolysis",
+                    "fermentation",
+                    "fermenting",
+                    "ferment"
+                ]
+            }
+        ]
+    },
+    "zymolysis": {
+        "word": "zymolysis",
+        "meanings": [
+            {
+                "def": "a process in which an agent causes an organic substance to break down into simpler substances",
+                "example": "Zymolysis can be sped up with the addition of chemicals.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zymosis"
+                ]
+            }
+        ]
+    },
+    "zettabyte": {
+        "word": "zettabyte",
+        "meanings": [
+            {
+                "def": "a unit of information equal to 1024 exbibytes or 2^70 bytes",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zebibyte"
+                ]
+            },
+            {
+                "def": "a unit of information equal to 1000 exabytes or 10^21 bytes",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zebibyte": {
+        "word": "zebibyte",
+        "meanings": [
+            {
+                "def": "a unit of information equal to 1024 exbibytes or 2^70 bytes",
+                "example": "I measured the data in zebibytes.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zettabyte"
+                ]
+            }
+        ]
+    },
+    "zettabit": {
+        "word": "zettabit",
+        "meanings": [
+            {
+                "def": "a unit of information equal to 1000 exabits or 10^21 bits",
+                "example": "Hard drives are not yet capable of storing zettabits of data, but future hardware technology may one day allow such storage possibilities.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zebibit": {
+        "word": "zebibit",
+        "meanings": [
+            {
+                "def": "a unit of information equal to 1024 exbibits or 2^70 bits",
+                "example": "The data company had zebibits of data.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zaire": {
+        "word": "zaire",
+        "meanings": [
+            {
+                "def": "the basic unit of money in Zaire",
+                "example": "I have a zaire left over from my trip to Zaire.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zloty": {
+        "word": "zloty",
+        "meanings": [
+            {
+                "def": "the basic unit of money in Poland",
+                "example": "Most shops will convert a zloty to dollars.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zilch": {
+        "word": "zilch",
+        "meanings": [
+            {
+                "def": "a quantity of no importance",
+                "example": "My roommate ate my pizza and left me with zilch.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "nothing"
+                ]
+            }
+        ]
+    },
+    "zippo": {
+        "word": "zippo",
+        "meanings": [
+            {
+                "def": "a quantity of no importance",
+                "example": "We got zippo going on here, it's so boring.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "nothing"
+                ]
+            }
+        ]
+    },
+    "zig": {
+        "word": "zig",
+        "meanings": [
+            {
+                "def": "an angular shape characterized by sharp turns in alternating directions",
+                "example": "The zig was cut in the wood without a pattern.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zigzag"
+                ]
+            }
+        ]
+    },
+    "zag": {
+        "word": "zag",
+        "meanings": [
+            {
+                "def": "an angular shape characterized by sharp turns in alternating directions",
+                "example": "The zags ran down the whole entire body of the shirt and looked bad when worn with striped pants.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zigzag"
+                ]
+            }
+        ]
+    },
+    "zoster": {
+        "word": "zoster",
+        "meanings": [
+            {
+                "def": "eruptions along a nerve path often accompanied by severe neuralgia",
+                "example": "The patient has zosters.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "herpes zoster"
+                ]
+            }
+        ]
+    },
+    "zoonosis": {
+        "word": "zoonosis",
+        "meanings": [
+            {
+                "def": "an animal disease that can be transmitted to humans",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zoonotic disease"
+                ]
+            }
+        ]
+    },
+    "zoonotic disease": {
+        "word": "zoonotic disease",
+        "meanings": [
+            {
+                "def": "an animal disease that can be transmitted to humans",
+                "example": "Ticks spread zoonotic diseases.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zoonosis"
+                ]
+            }
+        ]
+    },
+    "zit": {
+        "word": "zit",
+        "meanings": [
+            {
+                "def": "a small and inflamed elevation of the skin caused by the collection of excess oils in pores",
+                "example": "The zit is full of pus and therefore needs to be popped to relieve the tension on the surrounding skin.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "hickey"
+                ]
+            }
+        ]
+    },
+    "zoophobia": {
+        "word": "zoophobia",
+        "meanings": [
+            {
+                "def": "a morbid fear of animals",
+                "example": "My nibling suffers from zoophobia.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoopsia": {
+        "word": "zoopsia",
+        "meanings": [
+            {
+                "def": "visual hallucination of animals",
+                "example": "Zoopsia caused the patient to act very strangely.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zoanthropy": {
+        "word": "zoanthropy",
+        "meanings": [
+            {
+                "def": "the delusion that you have assumed the form of an animal",
+                "example": "The patient is exhibiting signs of zoanthropy, for example barking like a dog.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "Zeitgeist": {
+        "word": "Zeitgeist",
+        "meanings": [
+            {
+                "def": "the spirit of the time",
+                "example": "The new film really fits the Zeitgeist.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zinc": {
+        "word": "zinc",
+        "meanings": [
+            {
+                "def": "a bluish-white lustrous metallic element",
+                "speech_part": "noun",
+                "synonyms": []
+            },
+            {
+                "def": "coat or cover with zinc",
+                "speech_part": "verb"
+            }
+        ]
+    },
+    "zirconium": {
+        "word": "zirconium",
+        "meanings": [
+            {
+                "def": "a lustrous grey strong metallic element resembling titanium",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zymogen": {
+        "word": "zymogen",
+        "meanings": [
+            {
+                "def": "any of a group of compounds that are inactive precursors of enzymes and require some change, such as the hydrolysis of a fragment that masks an active enzyme, to become active",
+                "speech_part": "noun",
+                "synonyms": [
+                    "proenzyme"
+                ]
+            }
+        ]
+    },
+    "zootoxin": {
+        "word": "zootoxin",
+        "meanings": [
+            {
+                "def": "any toxin that comes from an animal",
+                "example": "The rattlesnake's zootoxin can induce necrosis and impaired coagulation.",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zinnwaldite": {
+        "word": "zinnwaldite",
+        "meanings": [
+            {
+                "def": "a mica containing iron and lithium",
+                "example": "The zinnwaldite was found in an underground quartz vein.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zircon": {
+        "word": "zircon",
+        "meanings": [
+            {
+                "def": "a common mineral occurring in small crystals",
+                "example": "chief source of zirconium",
+                "speech_part": "noun",
+                "synonyms": []
+            }
+        ]
+    },
+    "zirconium oxide": {
+        "word": "zirconium oxide",
+        "meanings": [
+            {
+                "def": "a white crystalline oxide",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zirconia"
+                ]
+            }
+        ]
+    },
+    "zirconia": {
+        "word": "zirconia",
+        "meanings": [
+            {
+                "def": "a white crystalline oxide",
+                "example": "It was not easy to tell the zirconia ring apart from the diamond ring.",
+                "speech_part": "noun",
+                "synonyms": [
+                    "zirconium oxide"
+                ]
+            }
+        ]
+    },
+    "zeolite": {
+        "word": "zeolite",
+        "meanings": [
+            {
+                "def": "any of a family of glassy minerals analogous to feldspar containing hydrated aluminum silicates of calcium or sodium or potassium",
+                "example": "The zeolite was easy to identify for the amateur geologist.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zero hour": {
+        "word": "zero hour",
+        "meanings": [
+            {
+                "def": "the time set for the start of an action or operation",
+                "example": "Zero hour is at 7:00 AM tomorrow, and it marks the beginning of a stressful political campaign.",
+                "speech_part": "noun"
+            }
+        ]
+    },
+    "zonk out": {
+        "word": "zonk out",
+        "meanings": [
+            {
+                "def": "to fall asleep fast, as when one is extremely tired",
+                "example": "I zonked out after my 18 hour shift.",
+                "speech_part": "verb"
+            },
+            {
+                "def": "to lose consciousness due to a sudden trauma",
+                "example": "They zonked out after being shot.",
+                "speech_part": "verb",
+                "synonyms": [
+                    "pass out",
+                    "black out"
+                ]
+            }
+        ]
+    },
+    "zero in": {
+        "word": "zero in",
+        "meanings": [
+            {
+                "def": "adjust, as by firing under test conditions, the zero of a gun",
+                "example": "They zeroed in their weapons before the competition began. ",
+                "speech_part": "verb",
+                "synonyms": [
+                    "zero"
+                ]
+            },
+            {
+                "def": "direct onto a point or target, especially by automatic navigational aids",
+                "speech_part": "verb",
+                "synonyms": [
+                    "range in",
+                    "home in"
+                ]
+            }
+        ]
+    },
+    "zip up": {
+        "word": "zip up",
+        "meanings": [
+            {
+                "def": "to close with a zipper",
+                "example": "The parents help their children zip their coats up.",
+                "speech_part": "verb",
+                "synonyms": [
+                    "zip"
+                ]
+            }
+        ]
+    },
+    "zip by": {
+        "word": "zip by",
+        "meanings": [
+            {
+                "def": "to move by very quickly",
+                "example": "The cars are zipping by today.",
+                "speech_part": "verb",
+                "synonyms": [
+                    "fly by"
+                ]
+            }
+        ]
+    },
+    "zoom along": {
+        "word": "zoom along",
+        "meanings": [
+            {
+                "def": "to move along very quickly",
+                "example": "We zoomed along the parkway.",
+                "speech_part": "verb",
+                "synonyms": [
+                    "zoom"
+                ]
+            }
+        ]
+    },
+    "zoom in": {
+        "word": "zoom in",
+        "meanings": [
+            {
+                "def": "to examine closely",
+                "example": "I zoomed in on the photo.",
+                "speech_part": "verb"
+            }
+        ]
+    },
+    "zax": {
+        "word": "zax",
+        "meanings": [
+            {
+                "def": "a tool used in roofing, a slate knife",
+                "example": "I spent a hard day atop my neighbor's house, wielding my zax against the roof tiles.",
+                "speech_part": "noun"
+            }
+        ]
+    }
+}
