@@ -16,8 +16,13 @@ class FacebookIntegrityCheck
         if (!($AllHeaders{'User-Agent'} == 'facebookexternalua' &&
            $AllHeaders{'Content-Type'} == 'application/json' &&
            $AllHeaders{'X-Hub-Signature'} == self::payloadSignature('sha1'))) {
-            header("HTTP/1.1 401 Unauthorized");
-            die('You are not allowed to access this communication endpoint.');
+            #header("HTTP/1.1 401 Unauthorized");
+            #die('You are not allowed to access this communication endpoint.');
+            die('<html><head><title>Welcome Stranger!</title></head><body><h1>Welcome</h1>'.
+                '<p>This is The Endpoint &mdash; a portal to the beautiful mind of compute'.
+                'r artificial intelligence.</p><hr><address>Jaimes Bot (<a href="https://g'.
+                'ithub.com/PhoenixPeca/jaimes-bot">jaimes.ai.bot</a>) for Facebook Messeng'.
+                'er</address></body></html>');
         }
         return true;
     }
