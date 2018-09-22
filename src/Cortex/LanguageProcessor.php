@@ -26,7 +26,7 @@ class LanguageProcessor
                            '" is not yet in my vocabulary.',
                            'But don\'t worry I\'ll research about that later. 😉'];
             } else {
-                $return = '"' . ucfirst($DefineThis) . '"' . ' means ' .
+                $return = '"' . ucfirst($DefineThis) . '" means ' .
                            GeneralStatics::arrRandomix(
                                Dictionary::defFetch($DefineThis));
             }
