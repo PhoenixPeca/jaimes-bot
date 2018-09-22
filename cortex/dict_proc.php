@@ -1,5 +1,6 @@
 <?php
 set_time_limit(300);
+exit();
 if (!(isset($_GET['password']) && $_GET['password'] == 'thisismysecretpassword')) {
     die('notallowed');
 }
