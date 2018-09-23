@@ -4,12 +4,13 @@ This is an optimized version of the Wordset Dictionary.
 
 https://github.com/wordset/wordset-dictionary
 
+---
 
-Optimization was achieved using this code:
-````
+*Optimization was achieved using this code:*
+````php
 <?php
 set_time_limit(300);
-foreach (glob("dictionary/*.json") as $file) {
+foreach (glob("*.json") as $file) {
     if (file_exists($file)){
 		$dictionary = file_get_contents($file);
 		$datasets = json_decode($dictionary);
