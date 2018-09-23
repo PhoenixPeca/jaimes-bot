@@ -2,4 +2,4 @@
 
 require_once 'src/autoload.php';
 
-new Supplier\Bootstrap();
+new Supplier\Bootstrap;
