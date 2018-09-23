@@ -1,5 +1,5 @@
 <?php
 
-include "src/autoload.php";
+require_once 'src/autoload.php';
 
-new InboundHook\Hub;
+new Supplier\Bootstrap();
