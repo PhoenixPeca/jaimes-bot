@@ -2,7 +2,7 @@
 
 namespace Supplier;
 
-use Cortex\Time;
+use OutboundHook\GoogleAPI;
 
 class TimeQueryExtract
 {
@@ -14,7 +14,7 @@ class TimeQueryExtract
         preg_match(self::TimeRules, GeneralStatics::strSanitize($string), $matches);
         if (!empty($matches{0})) {
             if (!empty($matches{1})) {
-                if ($place_matched = Time::geoCode($matches{1})->addr) {
+                if ($place_matched = GoogleAPI::geoCode($matches{1})->addr) {
                     $matches{1} = $place_matched;
                 } else {
                     $matches = true;
