@@ -1,4 +1,3 @@
 .htaccess
 config/settings.json
-cache/profile-*.json
 cortex/reflex/*
