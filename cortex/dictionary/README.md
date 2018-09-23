@@ -6,9 +6,21 @@ https://github.com/wordset/wordset-dictionary
 
 ---
 
-*Optimization was achieved using this code:*
+*Optimization was achieved using the code below:*
+> **WARNING**:
+    Use this code only when necessary. Exposing
+    this code to the public web may pose
+    significant risks. Consider
+    yourself warned.
 ````php
 <?php
+/**
+WARNING:
+    Use this code only when necessary. Exposing
+    this code to the public web may pose
+    significant risks. Consider
+    yourself warned.
+**/
 set_time_limit(300);
 foreach (glob("*.json") as $file) {
     if (file_exists($file)){
