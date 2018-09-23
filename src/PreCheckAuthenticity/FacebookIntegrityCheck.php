@@ -3,6 +3,7 @@
 namespace PreCheckAuthenticity;
 
 use Supplier\GeneralStatics;
+use InboundHook\HubVerify;
 
 class FacebookIntegrityCheck
 {
@@ -15,7 +16,8 @@ class FacebookIntegrityCheck
         }
         if (!($AllHeaders{'User-Agent'} == 'facebookexternalua' &&
            $AllHeaders{'Content-Type'} == 'application/json' &&
-           $AllHeaders{'X-Hub-Signature'} == self::payloadSignature('sha1'))) {
+           $AllHeaders{'X-Hub-Signature'} == self::payloadSignature('sha1')) &&
+           !HubVerify::getChallenge()) {
             #header("HTTP/1.1 401 Unauthorized");
             #die('You are not allowed to access this communication endpoint.');
             die('<html><head><title>Welcome Stranger!</title></head><body><h1>Welcome</h1>'.

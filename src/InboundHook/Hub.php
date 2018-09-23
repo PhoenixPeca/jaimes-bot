@@ -19,8 +19,7 @@ class Hub
                 self::getHookData()->entry{0}->messaging{0}->message,
                 self::getHookSenderID()
             );
-        } elseif ($HubVerify = HubVerify::getChallenge())
-            die($HubVerify);
+        }
     }
 
     public static function getHookData() {
