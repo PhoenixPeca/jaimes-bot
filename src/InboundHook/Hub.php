@@ -5,6 +5,7 @@ namespace InboundHook;
 use PreCheckAuthenticity\FacebookIntegrityCheck;
 use OutboundHook\UserProfile;
 use OutboundHook\Hub as OutHub;
+use Supplier\GeneralStatics;
 
 class Hub
 {
@@ -13,8 +14,14 @@ class Hub
         new FacebookIntegrityCheck;
         if (self::getMid() && !self::isEcho()) {
             $userData = UserProfile::getData(self::getHookSenderID());
-            date_default_timezone_set(
-                timezone_name_from_abbr('', $userData->timezone*3600, false));
+            if (!empty($userData->timezone)) {
+                date_default_timezone_set(
+                    timezone_name_from_abbr('', $userData->timezone*3600,
+                                            false));
+            } else {
+                date_default_timezone_set(
+                    GeneralStatics::getConfig('default_timezone'));
+            }
             new OutHub(
                 self::getHookData()->entry{0}->messaging{0}->message,
                 self::getHookSenderID()

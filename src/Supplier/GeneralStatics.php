@@ -5,8 +5,12 @@ namespace Supplier;
 class GeneralStatics
 {
 
-    public static function strSanitize($string) {
-        $string = preg_replace('/[^a-z0-9-\-\s\#\&]+/i', ' ', $string);
+    public static function strSanitize($string, $whitelist = array()) {
+        foreach($whitelist as $char) {
+            $wl .= '\\'.$char;
+        }
+        $string = preg_replace('/[^a-z0-9-\-\s\#\&'.$wl.']+/i',
+                               ' ', $string);
         $string = strtolower(trim($string));
         $string = preg_replace('/\s+/i', ' ', $string);
         return $string;

@@ -1,6 +1,7 @@
 {
     "bot_name":          "Jaimes",
-    "page_access_token": "",
-    "app_secret":        "",
-    "google_api_key":    ""
+    "page_access_token": " ~ Enter your Facebook Page's access token here ~ ",
+    "app_secret":        " ~ Enter you Facebook App's secret here ~ ",
+    "google_api_key":    " ~ Enter your Geocoding and Timezone Google API key here ~ ",
+    "default_timezone":  "Asia/Manila"
 }
