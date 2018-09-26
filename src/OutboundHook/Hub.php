@@ -8,6 +8,8 @@ use Cortex\LanguageProcessor;
 class Hub
 {
 
+    private const fbmeSendAPI = 'https://graph.facebook.com/v3.1/me/';
+
     private $recipient_id;
 
     public function __construct($message, $sender) {
@@ -63,9 +65,9 @@ class Hub
 
     private function postRequest($data, $handler) {
         return json_decode(file_get_contents(
-            'https://graph.facebook.com/v2.6/me/' . $handler . '?access_token='.
+            self::fbmeSendAPI . $handler . '?access_token='.
             GeneralStatics::getConfig('page_access_token'), false,
-            stream_context_create(array ('http' => 
+            stream_context_create(array ('http' =>
                     array (
                         'method'  => 'POST',
                         'header'  => 'Content-Type: application/json',

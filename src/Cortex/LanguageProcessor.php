@@ -52,6 +52,9 @@ class LanguageProcessor
                                                                'g:i A (l jS \of F Y)');
             }
         }
+//         if (true) {
+            
+//         }
         if (!isset($return) || empty($return)) {
             if ($PredefResp = PredefinedResponse::initiator($message)) {
                 $return = $PredefResp;

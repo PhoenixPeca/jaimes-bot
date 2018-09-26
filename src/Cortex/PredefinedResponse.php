@@ -8,7 +8,7 @@ class PredefinedResponse
 {
 
     public static function initiator($message) {
-        return false;
+        return UserProfile::getSenderData('first_name');
     }
 
 }
