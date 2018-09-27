@@ -44,7 +44,7 @@ class CacheController
             }
             if (empty($data)) {
                 $data = $prev_data;
-                //unlink($cacheFile);
+                unlink($cacheFile);
             }
         } else {
             $data = $prev_data;
