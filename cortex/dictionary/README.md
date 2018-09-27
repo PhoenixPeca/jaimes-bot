@@ -14,13 +14,13 @@ https://github.com/wordset/wordset-dictionary
     yourself warned.
 ````php
 <?php
-/**
+/*
 WARNING:
     Use this code only when necessary. Exposing
     this code to the public web may pose
     significant risks. Consider
     yourself warned.
-**/
+*/
 set_time_limit(300);
 foreach (glob("*.json") as $file) {
     if (file_exists($file)){
