@@ -56,4 +56,9 @@ class GeneralStatics
         return $string;
     }
 
+    public static function flattenArray($array) {
+        array_walk_recursive($array, function($a) use (&$return) { $return[] = $a; });
+        return (!empty($return) ? $return : false);
+    }
+
 }

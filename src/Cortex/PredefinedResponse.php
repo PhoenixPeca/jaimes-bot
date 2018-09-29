@@ -63,10 +63,28 @@ class PredefinedResponse
 
     private static function cortexGetResponse($id) {
         $cortex = self::Reflex . self::CortexDeep;
-        $response = trim(file($cortex){$id-1});
-        $response = GeneralStatics::curlify($response, self::$envars);
-        return (!empty($response) ?
-                GeneralStatics::basicStrEscape($response):false);
+        if (is_array($id)) {
+            foreach ($id as $item) {
+                $payload = trim(file($cortex){$item-1});
+                $response[] = GeneralStatics::curlify($payload, self::$envars);
+            }
+        } else {
+            $payload = trim(file($cortex){$id-1});
+            $response = GeneralStatics::curlify($payload, self::$envars);
+        }
+        if (!empty($response)) {
+            if (is_array($response)) {
+                foreach ($response as $item) {
+                    $return[] = GeneralStatics::basicStrEscape($item);
+                }
+                $return = GeneralStatics::flattenArray($return);
+            } else {
+                $return = GeneralStatics::basicStrEscape($response);
+            }
+        } else {
+            $return = false;
+        }
+        return $return;
     }
 
 }
