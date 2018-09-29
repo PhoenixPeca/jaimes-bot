@@ -5,10 +5,10 @@
     "google_api_key":    " ~ Enter your Geocoding and Timezone Google API key here ~ ",
     "default_timezone":  "Asia/Manila",
     "bot_vars":          {
-        "first_name":    "%sender.first_name%",
-        "last_name":     "%sender.last_name%",
-        "full_name":     "%sender.full_name%",
+        "first_name":    "%%sender.first_name%%",
+        "last_name":     "%%sender.last_name%%",
+        "full_name":     "%%sender.name%%",
         "bot_creator":   "Phoenix Eve Aspacio",
-        "bot_name":      "%settings.bot_name%"
+        "bot_name":      "%%settings.bot_name%%"
     }
 }
