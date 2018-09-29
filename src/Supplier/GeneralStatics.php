@@ -26,4 +26,11 @@ class GeneralStatics
         return $array[array_rand($array)];
     }
 
+    public static function curlify($string, $envars) {
+        foreach($envars as $spot=>$data) {
+            $string = str_replace('{{{'.$spot.'}}}', $data, $string);
+        }
+        return $string;
+    }
+
 }
