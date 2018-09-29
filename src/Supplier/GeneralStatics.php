@@ -2,6 +2,8 @@
 
 namespace Supplier;
 
+use OutboundHook\UserProfile;
+
 class GeneralStatics
 {
 
@@ -28,8 +30,29 @@ class GeneralStatics
 
     public static function curlify($string, $envars) {
         foreach($envars as $spot=>$data) {
-            $string = str_replace('{{{'.$spot.'}}}', $data, $string);
+            $string = str_replace('{{{'.$spot.'}}}', self::percentify($data),
+                                  $string);
         }
+        return $string;
+    }
+
+    public static function percentify($string) {
+        preg_match_all('/%%(sender|settings)\.(.+)%%/U', $string,
+                       $matches, PREG_SET_ORDER);
+        foreach ($matches as $prefix=>$postfix) {
+            if ($postfix{1} == 'sender') {
+                $replacement = UserProfile::getSenderData($postfix{2});
+            } elseif ($postfix{1} == 'settings') {
+                $replacement = self::getConfig($postfix{2});
+            }
+            $str = str_replace($postfix{0}, $replacement, $string);
+        }
+        return $str;
+    }
+
+    public static function basicStrEscape($string) {
+        $string = str_replace('\n', "\n", $string);
+        $string = explode('\b', $string);
         return $string;
     }
 

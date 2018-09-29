@@ -17,7 +17,6 @@ class PredefinedResponse
     public static function initiator($message, $envars) {
         self::configureReflex();
         self::$envars = $envars;
-        //return UserProfile::getSenderData('name');
         return self::cortexParse($message);
     }
 
@@ -66,7 +65,8 @@ class PredefinedResponse
         $cortex = self::Reflex . self::CortexDeep;
         $response = trim(file($cortex){$id-1});
         $response = GeneralStatics::curlify($response, self::$envars);
-        return (!empty($response) ? $response : false);
+        return (!empty($response) ?
+                GeneralStatics::basicStrEscape($response):false);
     }
 
 }

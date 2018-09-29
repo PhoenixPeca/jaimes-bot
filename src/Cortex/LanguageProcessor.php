@@ -54,7 +54,9 @@ class LanguageProcessor
         }
         if ($PredefResp = PredefinedResponse::initiator($message,
                                         GeneralStatics::getConfig('bot_vars'))) {
-            $return = $PredefResp;
+            if ($PredefResp == true) {
+                $return = $PredefResp;
+            }
         }
         if (!isset($return) || empty($return)) {
             $return = ['I was not explicitly taught to answer that ' .
