@@ -1,4 +1,4 @@
 .htaccess
 config/settings.json
-cortex/reflex/*
+cortex/reflex/cortex.train
 cache
