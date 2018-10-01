@@ -48,8 +48,8 @@ class PredefinedResponse
         foreach($cortex as $subcortex) {
             $subcortex->statement = GeneralStatics::curlify($subcortex->statement,
                                                             self::$envars);
-            similar_text(strtolower($subcortex->statement),
-                         strtolower($message),
+            similar_text(GeneralStatics::strSanitize($subcortex->statement),
+                         GeneralStatics::strSanitize($message),
                          $impulse);
             $match_at = (isset($subcortex->match_at) ?
                          $subcortex->match_at :

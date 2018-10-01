@@ -11,7 +11,7 @@ class GeneralStatics
         foreach($whitelist as $char) {
             $wl .= '\\'.$char;
         }
-        $string = preg_replace('/[^a-z0-9-\-\s\#\&'.$wl.']+/i',
+        $string = preg_replace('/[^a-z0-9-\-\s'.$wl.']+/i',
                                ' ', $string);
         $string = strtolower(trim($string));
         $string = preg_replace('/\s+/i', ' ', $string);

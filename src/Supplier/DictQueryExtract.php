@@ -17,8 +17,11 @@ class DictQueryExtract
 
     private const ExampleRules = '/^(?:use )?(.+)(?: (?:in|as) a sentence)$/i';
 
+    private const QueryWLCharSet = ['\'', '#', '&'];
+
     public static function getDefWord($string, $passive = false) {
-        preg_match(self::DefinitionRules, GeneralStatics::strSanitize($string, ['\'']),
+        preg_match(self::DefinitionRules, GeneralStatics::strSanitize($string,
+                                                                      self::QueryWLCharSet),
                                                                       $word);
         $return = (isset($word{1}) && !empty(Dictionary::defFetch($word{1})) ?
                     GeneralStatics::strSanitize($word{1}) : 
@@ -27,7 +30,8 @@ class DictQueryExtract
     }
 
     public static function getSynWord($string, $passive = false) {
-        preg_match(self::SynonymRules, GeneralStatics::strSanitize($string, ['\'']),
+        preg_match(self::SynonymRules, GeneralStatics::strSanitize($string,
+                                                                  self::QueryWLCharSet),
                                                                    $word);
         $return = (isset($word{1}) && !empty(Dictionary::synFetch($word{1})) ?
                     GeneralStatics::strSanitize($word{1}) : 
@@ -36,7 +40,8 @@ class DictQueryExtract
     }
 
     public static function getExWord($string, $passive = false) {
-        preg_match(self::ExampleRules, GeneralStatics::strSanitize($string, ['\'']),
+        preg_match(self::ExampleRules, GeneralStatics::strSanitize($string,
+                                                                  self::QueryWLCharSet),
                                                                    $word);
         $return = (isset($word{1}) && !empty(Dictionary::exFetch($word{1})) ?
                     GeneralStatics::strSanitize($word{1}) : 
