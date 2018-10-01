@@ -59,7 +59,7 @@ class PredefinedResponse
                     $return = GeneralStatics::arrRandoMix($subcortex->action);
                     break;
                 }
-            } else {
+            } elseif (empty($is_regex)) {
                 if ($config_defaults = $PRD) {
                     if (empty($subcortex->match_at) &&
                             !empty($config_defaults->match_at)) {
