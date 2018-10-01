@@ -11,7 +11,7 @@ class TimeQueryExtract
                               'here| is it)?(?: today| now)?(?: in (.+))?)?$/i';
 
     public static function getTime($string) {
-        preg_match(self::TimeRules, strtolower($string), $matches);
+        preg_match(self::TimeRules, GeneralStatics::strSanitize($string), $matches);
         if (!empty($matches{0})) {
             if (!empty($matches{1})) {
                 if ($place_matched = GoogleAPI::geoCode($matches{1})->addr) {

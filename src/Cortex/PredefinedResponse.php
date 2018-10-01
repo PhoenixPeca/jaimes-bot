@@ -45,17 +45,43 @@ class PredefinedResponse
 
     private static function cortexGetResponseID($message, $match_at = 85) {
         $cortex = json_decode(file_get_contents(self::Reflex . self::Cortex));
+        $PRD = GeneralStatics::getConfig('predefined_response_defaults');
         foreach($cortex as $subcortex) {
-            $subcortex->statement = GeneralStatics::curlify($subcortex->statement,
+            $subc_statement_regex = GeneralStatics::curlify($subcortex->statement,
+                                                            self::$envars, true);
+            $subc_statement_literal = GeneralStatics::curlify($subcortex->statement,
                                                             self::$envars);
-            similar_text(GeneralStatics::strSanitize($subcortex->statement),
-                         GeneralStatics::strSanitize($message),
-                         $impulse);
-            $match_at = (isset($subcortex->match_at) ?
-                         $subcortex->match_at :
-                         $match_at);
-            if ($impulse >= $match_at) {
-                $return = GeneralStatics::arrRandoMix($subcortex->action);
+            preg_match('/^\/.+\/(?:[a-z]+)?$/i', $subc_statement_regex, $is_regex);
+            if ($is_regex{0} == $subc_statement_regex &&
+                 $PRD->allow_regex !== false) {
+                preg_match($subc_statement_regex, $message, $impulse);
+                if ($impulse{0} == $message) {
+                    $return = GeneralStatics::arrRandoMix($subcortex->action);
+                    break;
+                }
+            } else {
+                if ($config_defaults = $PRD) {
+                    if (empty($subcortex->match_at) &&
+                            !empty($config_defaults->match_at)) {
+                        $match_at = $config_defaults->match_at;
+                    }
+                    if ($subcortex->case_sensitive === false) {
+                        $subc_statement_literal = strtolower($subc_statement_literal);
+                        $message = strtolower($message);
+                    }
+                    if (empty($subcortex->case_sensitive) &&
+                            $config_defaults->case_sensitive === false) {
+                        $subc_statement_literal = strtolower($subc_statement_literal);
+                        $message = strtolower($message);
+                    }
+                }
+                similar_text($subc_statement_literal, $message, $impulse);
+                $match_at = (isset($subcortex->match_at) ?
+                             $subcortex->match_at :
+                             $match_at);
+                if ($impulse >= $match_at) {
+                    $return = GeneralStatics::arrRandoMix($subcortex->action);
+                }
             }
         }
         return (!empty($return) ? $return : false);

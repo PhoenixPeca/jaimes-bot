@@ -28,15 +28,15 @@ class GeneralStatics
         return $array[array_rand($array)];
     }
 
-    public static function curlify($string, $envars) {
+    public static function curlify($string, $envars, $regex_escape = false) {
         foreach($envars as $spot=>$data) {
-            $string = str_replace('{{{'.$spot.'}}}', self::percentify($data),
-                                  $string);
+            $string = str_replace('{{{'.$spot.'}}}', self::percentify($data,
+                                                    $regex_escape), $string);
         }
         return $string;
     }
 
-    public static function percentify($string) {
+    public static function percentify($string, $regex_escape = false) {
         preg_match_all('/%%(sender|settings)\.(.+)%%/U', $string,
                        $matches, PREG_SET_ORDER);
         foreach ($matches as $prefix=>$postfix) {
@@ -46,6 +46,10 @@ class GeneralStatics
                 $replacement = self::getConfig($postfix{2});
             }
             $str = str_replace($postfix{0}, $replacement, $string);
+        }
+        if ($regex_escape === true) {
+            $str = preg_replace('/([\.\^\$\*\+\-\?\(\)\[\]\{\}\\\\\|])/i',
+                                '\\\\$1', $str);
         }
         return $str;
     }

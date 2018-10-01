@@ -1,7 +1,26 @@
 [
     {
-        "statement": "Hi!",
-        "action": [1,2,3,4,5,6],
-        "match_at": 100
+        "statement": "/^(?:hi|h(?:[eo]+[ly]+[ao]+))(?:\\sJaimes)?(?:[.!?]+)?$/i",
+        "action": [[1,9],[2],[3],[4],[5],[6],[7],[8,9]]
+    },
+    {
+        "statement": "/^what(?:'?|\\si)s\\syour\\sname(?:[.!?]+)?$/i",
+        "action": [10,11,12,13,14,15]
+    },
+    {
+        "statement": "/^{{{bot_name}}}(?:[.!?]+)?$/i",
+        "action": [4,5,6,16,17,18]
+    },
+    {
+        "statement": "/^how\\sold?\\s(?:are|r)\\s(?:you|u)(?:[.!?]+)?$/i",
+        "action": [19]
+    },
+    {
+        "statement": "/^(?:[ha]{5,})(?:[.!?]+)?$/i",
+        "action": [20,21,22]
+    },
+    {
+        "statement": "/^(?:[ha]{4})(?:[.!?]+)?$/i",
+        "action": [24]
     }
 ]
