@@ -3,6 +3,7 @@
 namespace Supplier;
 
 use Cortex\Dictionary;
+use Supplier\GeneralStatics;
 
 class DictQueryExtract
 {

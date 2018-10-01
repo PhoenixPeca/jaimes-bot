@@ -3,6 +3,7 @@
 namespace Supplier;
 
 use OutboundHook\GoogleAPI;
+use Supplier\GeneralStatics;
 
 class TimeQueryExtract
 {
