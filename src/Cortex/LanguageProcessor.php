@@ -49,7 +49,7 @@ class LanguageProcessor
             } else {
                 $return = 'The time' . (isset($TimeThis{1}) ? ' in ' . $TimeThis{1} :
                                         '').' is ' . Time::getFinalTime($TimeThis,
-                                                               'g:i A (T l jS \of F Y)');
+                                                               'g:i A T (l jS \of F Y)');
             }
         }
         if ($PredefResp = PredefinedResponse::initiator($message,
