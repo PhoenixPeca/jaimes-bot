@@ -24,7 +24,7 @@ class Hub
 
     private function sendMessage($message) {
         $this->setSenderAction('mark_seen', false);
-        $this->setSenderAction('typing_on');
+        $this->setSenderAction('typing_on', false);
         $data->recipient->id = $this->recipient_id;
         if (is_array($message)) {
             foreach ($message as $item) {
