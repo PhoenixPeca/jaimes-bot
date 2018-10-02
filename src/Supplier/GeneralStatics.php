@@ -45,13 +45,13 @@ class GeneralStatics
             } elseif ($postfix{1} == 'settings') {
                 $replacement = self::getConfig($postfix{2});
             }
-            $str = str_replace($postfix{0}, $replacement, $string);
+            $string = str_replace($postfix{0}, $replacement, $string);
         }
         if ($regex_escape === true) {
-            $str = preg_replace('/([\.\^\$\*\+\-\?\(\)\[\]\{\}\\\\\|])/i',
-                                '\\\\$1', $str);
+            $string = preg_replace('/([\.\^\$\*\+\-\?\(\)\[\]\{\}\\\\\|])/i',
+                                '\\\\$1', $string);
         }
-        return $str;
+        return $string;
     }
 
     public static function basicStrEscape($string) {

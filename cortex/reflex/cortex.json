@@ -26,5 +26,9 @@
     {
         "statement": "/^(?:[ha]{4})(?:[.!?]+)?$/i",
         "action": [24]
+    },
+    {
+        "statement": "/^who(?:(?:(?:\\sis|'?s)\\syour\\s(?:creator|father))|(?:\\screated\\syou))(?:[.!?]+)?$/i",
+        "action": [25,26,27,28]
     }
 ]
