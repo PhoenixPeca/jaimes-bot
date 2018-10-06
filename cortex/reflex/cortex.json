@@ -1,6 +1,6 @@
 [
     {
-        "statement": "/^(?:hi|h(?:[eo]+[ly]+[ao]+))(?:\\s{{{bot_name}}})?(?:[.!?]+)?$/i",
+        "statement": "/^(?:hi|h(?:[eo]+[ly]+[ao]+|[e]+[y]+))(?:\\s{{{bot_name}}})?(?:[.!?]+)?$/i",
         "action": [[1,9],[2],[3],[4],[5],[6],[7],[8,9]]
     },
     {
@@ -34,5 +34,33 @@
     {
         "statement": "/^(?:(?:wh?a)?[zs]+up|wh?at(?:'|\\si)?s\\sup)(?:[.!?]+)?$/i",
         "action": [1,2,3,7,8,29]
+    },
+    {
+        "statement": "/^ok(?:ay|[i]+es)?\\s(?:goo?go?le|cortana|siri|alexa?)(?:[.!?]+)?$/i",
+        "action": [30,31,32]
+    },
+    {
+        "statement": "/^ok(?:ay|[i]+es)?\\s(?:goo?go?le|cortana|siri|alexa?)(?:[.!?]+)?$/i",
+        "action": [30,31,32]
+    },
+    {
+        "statement": "/(?:.*)(?:Enrique(?:\\sT(?:omedo)?\\.?)?\\sFresco(?:\\sII)?)(?:.*)/i",
+        "action": [33]
+    },
+    {
+        "statement": "/(?:.*)(?:(?:Keith)?(?:\\s?Joshua)?(?:\\sS(?:egovia)?\\.?)?\\sSaile)(?:.*)/i",
+        "action": [34]
+    },
+    {
+        "statement": "/(?:.*)(?:(?:Clark)?(?:\\s?Ivan)?(?:\\sC(?:aidic)?\\.?)?\\sTaguran)(?:.*)/i",
+        "action": [35]
+    },
+    {
+        "statement": "/(?:.*)(?:(?:Ralph)?(?:\\s?Reymar)?(?:\\sL(?:ajato)?\\.??)?\\sDesquitado)(?:.*)/i",
+        "action": [36]
+    },
+    {
+        "statement": "/(?:.*)Pretty\\sBoys(?:.*)/i",
+        "action": [37]
     }
 ]
