@@ -61,6 +61,6 @@
     },
     {
         "statement": "/(?:.*)Pretty\\sBoys(?:.*)/i",
-        "action": [37]
+        "action": [37,38]
     }
 ]
