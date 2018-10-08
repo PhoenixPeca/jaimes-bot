@@ -44,23 +44,39 @@
         "action": [30,31,32]
     },
     {
-        "statement": "/(?:.*)(?:Enrique(?:\\sT(?:omedo)?\\.?)?\\sFresco(?:\\sII)?)(?:.*)/i",
-        "action": [33]
+        "statement": "Enrique T. Fresco II",
+        "action": [33],
+        "match_at": 60,
+        "case_sensitive": false
     },
     {
-        "statement": "/(?:.*)(?:(?:Keith)?(?:\\s?Joshua)?(?:\\sS(?:egovia)?\\.?)?\\sSaile)(?:.*)/i",
-        "action": [34]
+        "statement": "Keith Johua S. Saile",
+        "action": [34],
+        "match_at": 60,
+        "case_sensitive": false
     },
     {
-        "statement": "/(?:.*)(?:(?:Clark)?(?:\\s?Ivan)?(?:\\sC(?:aidic)?\\.?)?\\sTaguran)(?:.*)/i",
-        "action": [35]
+        "statement": "Clark Ivan C. Taguran",
+        "action": [35],
+        "match_at": 60,
+        "case_sensitive": false
     },
     {
-        "statement": "/(?:.*)(?:(?:Ralph)?(?:\\s?Reymar)?(?:\\sL(?:ajato)?\\.??)?\\sDesquitado)(?:.*)/i",
-        "action": [36]
+        "statement": "Ralph Reymar L. Desquitado",
+        "action": [36],
+        "match_at": 60,
+        "case_sensitive": false
     },
     {
-        "statement": "/(?:.*)Pretty\\sBoys(?:.*)/i",
-        "action": [37,38]
+        "statement": "Pretty Boys",
+        "action": [37,38],
+        "match_at": 85,
+        "case_sensitive": false
+    },
+    {
+        "statement": "whoami",
+        "action": [39],
+        "match_at": 100,
+        "case_sensitive": true
     }
 ]
