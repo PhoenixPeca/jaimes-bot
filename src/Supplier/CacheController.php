@@ -20,7 +20,7 @@ class CacheController
         return $cacheFile;
     }
 
-    public function cacheCreate($cacheID, $data, $replace_after = 172800) {
+    public static function cacheCreate($cacheID, $data, $replace_after = 172800) {
         $cacheFile = self::initCache($cacheID);
         if (!empty($cacheID) && !empty($data)) {
             if (time() - filemtime($cacheFile) > $replace_after) {
@@ -32,16 +32,15 @@ class CacheController
         return true;
     }
 
-    public function cacheDestroy($cacheID) {
+    public static function cacheDestroy($cacheID) {
         return (unlink(self::CacheDir . $cacheID. '.json') ? true : false);
     }
 
-    public function cacheFetch($cacheID, $prev_data, $fetch_before = 172800) {
+    public static function cacheFetch($cacheID, $prev_data, $fetch_before = 172800) {
         $cacheFile = self::initCache($cacheID);
-        if (file_exists($cacheFile) && !empty($cacheID) && !empty($prev_data)) {
-            if (time() - filemtime($cacheFile) < $fetch_before) {
-                $data = json_decode(file_get_contents($cacheFile));
-            }
+        if (file_exists($cacheFile) &&
+                            time() - filemtime($cacheFile) < $fetch_before) {
+            $data = json_decode(file_get_contents($cacheFile));
             if (empty($data)) {
                 $data = $prev_data;
                 unlink($cacheFile);
