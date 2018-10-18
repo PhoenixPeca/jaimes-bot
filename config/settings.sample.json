@@ -7,7 +7,9 @@
     "predefined_response_defaults": {
         "match_at": 85,
         "allow_regex": true,
-        "case_sensitive": true
+        "case_sensitive": true,
+        "strict_alphanumeric": true,
+        "non_alphanumeric_to_space": true
     },
     "bot_vars": {
         "first_name": "%%sender.first_name%%",
