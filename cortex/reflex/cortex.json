@@ -69,7 +69,7 @@
     },
     {
         "statement": "Pretty Boys",
-        "action": [37,38],
+        "action": [[38,37]],
         "match_at": 85,
         "case_sensitive": false
     },
@@ -77,6 +77,14 @@
         "statement": "whoami",
         "action": [39],
         "match_at": 100,
-        "case_sensitive": true
+        "case_sensitive": true,
+        "strict_alphanumeric": true
+    },
+    {
+        "statement": "are you being sarcastic",
+        "action": [39],
+        "match_at": 85,
+        "case_sensitive": false,
+        "strict_alphanumeric": true
     }
 ]
