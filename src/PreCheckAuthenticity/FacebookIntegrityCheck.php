@@ -9,7 +9,7 @@ class FacebookIntegrityCheck
 {
 
     public function __construct() {
-        $AllHeaders = getallheaders();
+        $AllHeaders = self::getAllHeaders();
         if (!self::isSecuredCom()) {
             header('HTTP/1.0 403 Forbidden');
             die('HTTPS is required in this communication endpoint.');
@@ -46,6 +46,16 @@ class FacebookIntegrityCheck
             $ssl = true;
         }
         return $ssl;
+    }
+
+    private static function getAllHeaders() {
+        $headers = [];
+        foreach ($_SERVER as $name => $value) {
+            if (substr($name, 0, 5) == 'HTTP_') {
+                $headers[str_replace(' ', '-', ucwords(strtolower(str_replace('_', ' ', substr($name, 5)))))] = $value;
+            }
+        }
+        return $headers;
     }
 
 }
